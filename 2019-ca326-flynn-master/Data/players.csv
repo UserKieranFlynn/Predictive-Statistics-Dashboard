@@ -1,0 +1,622 @@
+ID,Player,Nation,Club,Position,In_17_18,Age,Appearances,Starts,Subs,MinsPlayed,Minutes/Appearance,Goals,Assists,PenaltiesTaken,PenaltiesAttempted,Fouls,YellowCards,RedCards,ShotsOnTarget,Goals/90,GoalsAndAssists/90,GoalsMinusPenalties/90,GoalsAndAssistsMinusPenaltiesPer90,ShotsOnTarget/90,Fouls/90,Cards/90
+1,Nathaniel Clyne,eng ENG,Liverpool,DF,Y,25,37,37,0,3323,90,0,2,0,0,15,0,0,4,0,0.05,0,0.05,0.11,0.41,0
+2,James Milner,eng ENG,Liverpool,MF,Y,30,36,36,0,3154,88,7,3,7,8,38,5,0,17,0.2,0.29,0,0.09,0.49,1.08,0.14
+3,Roberto Firmino,br BRA,Liverpool,FW,Y,24,35,34,1,3062,88,11,7,0,0,50,5,0,45,0.32,0.53,0.32,0.53,1.32,1.47,0.15
+4,Georginio Wijnaldum,nl NED,Liverpool,MF,Y,25,36,33,3,2972,83,6,8,0,0,21,2,0,21,0.18,0.42,0.18,0.42,0.64,0.64,0.06
+5,Dejan Lovren,hr CRO,Liverpool,DF,Y,27,29,29,0,2553,88,2,1,0,0,25,6,0,5,0.07,0.11,0.07,0.11,0.18,0.88,0.21
+6,Philippe Coutinho,br BRA,Liverpool,MF,Y,24,31,28,3,2227,72,13,8,0,0,18,2,0,39,0.53,0.85,0.53,0.85,1.58,0.73,0.08
+7,Joel Matip,cm CMR,Liverpool,DF,Y,24,29,27,2,2457,85,1,0,0,0,14,3,0,4,0.04,0.04,0.04,0.04,0.15,0.51,0.11
+8,Adam Lallana,eng ENG,Liverpool,MF,Y,28,31,27,4,2348,76,8,6,0,0,17,3,0,19,0.31,0.54,0.31,0.54,0.73,0.65,0.11
+9,Emre Can,de GER,Liverpool,MF,Y,22,32,26,6,2371,74,5,2,0,0,70,6,0,11,0.19,0.27,0.19,0.27,0.42,2.66,0.23
+10,Sadio Mane,sn SEN,Liverpool,MF,Y,24,27,26,1,2235,83,13,5,0,0,32,4,0,25,0.52,0.72,0.52,0.72,1.01,1.29,0.16
+11,Jordan Henderson,eng ENG,Liverpool,MF,Y,26,24,24,0,2116,88,1,4,0,0,28,8,0,4,0.04,0.21,0.04,0.21,0.17,1.19,0.34
+12,Ragnar Klavan,ee EST,Liverpool,DF,Y,30,20,15,5,1410,71,0,0,0,0,15,3,0,2,0,0,0,0,0.13,0.96,0.19
+13,Divock Origi,be BEL,Liverpool,FW,N,21,34,14,20,1468,43,7,3,0,0,22,0,0,15,0.43,0.61,0.43,0.61,0.92,1.35,0
+14,Lucas Leiva,br BRA,Liverpool,MF,N,29,24,12,12,1112,46,0,2,0,0,18,4,0,1,0,0.16,0,0.16,0.08,1.46,0.32
+15,Daniel Sturridge,eng ENG,Liverpool,FW,F,26,20,7,13,775,39,3,1,0,0,5,1,0,20,0.35,0.46,0.35,0.46,2.32,0.58,0.12
+16,Alberto Moreno,es ESP,Liverpool,DF,Y,24,12,2,10,305,25,0,0,0,0,2,1,0,0,0,0,0,0,0,0.59,0.3
+17,Trent Alexander-Arnold,eng ENG,Liverpool,DF,Y,17,7,2,5,167,24,0,0,0,0,1,0,0,2,0,0,0,0,1.08,0.54,0
+18,Ben Woodburn,eng ENG,Liverpool,FW,Y,16,5,1,4,86,17,0,0,0,0,2,0,0,0,0,0,0,0,0,2.09,0
+19,Marko Grujic,rs SRB,Liverpool,MF,F,20,5,0,5,43,9,0,0,0,0,2,1,0,2,0,0,0,0,4.19,4.19,2.09
+20,Kevin Stewart,eng ENG,Liverpool,MF,N,22,4,0,4,20,5,0,0,0,0,1,0,0,0,0,0,0,0,0,4.5,0
+21,Ovie Ejaria,eng ENG,Liverpool,MF,F,18,2,0,2,8,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Joe Gomez,eng ENG,Liverpool,DF,Y,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Andrew Robertson,sco SCO,Liverpool,DF,Y,22,33,31,2,2736,83,1,2,0,0,18,5,0,1,0.03,0.1,0.03,0.1,0.03,0.59,0.16
+24,Alex Oxlade-Chamberlain,eng ENG,Liverpool,MF,Y,22,29,16,13,1628,56,2,7,0,0,30,1,0,8,0.11,0.5,0.11,0.5,0.44,1.66,0.06
+25,Virgil van Dijk,nl NED,Liverpool,DF,S,25,21,21,0,1853,88,1,0,0,0,18,4,1,5,0.05,0.05,0.05,0.05,0.24,0.87,0.24
+26,Dominic Solanke,eng ENG,Liverpool,FW,Y,19,25,21,4,1805,72,7,1,2,2,39,0,0,15,0.35,0.4,0.25,0.3,0.75,1.94,0
+27,Mohamed Salah,eg EGY,Liverpool,MF,Y,24,31,29,2,2473,80,15,11,0,0,27,2,0,34,0.55,0.95,0.55,0.95,1.24,0.98,0.07
+28,Steve Cook,eng ENG,Bournemouth,DF,Y,25,38,38,0,3420,90,2,0,0,0,16,5,0,9,0.05,0.05,0.05,0.05,0.24,0.42,0.13
+29,Adam Smith,eng ENG,Bournemouth,DF,Y,25,36,34,2,3079,86,1,5,0,0,44,6,0,6,0.03,0.18,0.03,0.18,0.18,1.29,0.18
+30,Charlie Daniels,eng ENG,Bournemouth,DF,Y,29,34,34,0,3060,90,4,3,0,0,12,1,0,6,0.12,0.21,0.12,0.21,0.18,0.35,0.03
+31,Simon Francis,eng ENG,Bournemouth,DF,Y,31,34,34,0,2939,86,0,1,0,0,27,4,1,0,0,0.03,0,0.03,0,0.83,0.15
+32,Harry Arter,ie IRL,Bournemouth,MF,Y,26,35,33,2,2957,85,1,3,0,1,37,12,1,11,0.03,0.12,0.03,0.12,0.33,1.13,0.4
+33,Joshua King,no NOR,Bournemouth,FW,Y,24,36,31,5,2713,75,16,2,2,3,58,1,0,31,0.53,0.6,0.46,0.53,1.03,1.92,0.03
+34,Jack Wilshere,eng ENG,Bournemouth,MF,N,24,27,22,5,1910,71,0,2,0,0,19,3,0,10,0,0.09,0,0.09,0.47,0.9,0.14
+35,Andrew Surman,eng ENG,Bournemouth,MF,Y,29,22,21,1,1801,82,0,1,0,0,16,2,1,2,0,0.05,0,0.05,0.1,0.8,0.15
+36,Ryan Fraser,sco SCO,Bournemouth,MF,Y,22,28,19,9,1764,63,3,5,0,0,18,3,0,12,0.15,0.41,0.15,0.41,0.61,0.92,0.15
+37,Junior Stanislas,eng ENG,Bournemouth,MF,Y,26,21,18,3,1467,70,7,5,2,2,8,1,0,18,0.43,0.74,0.31,0.61,1.1,0.49,0.06
+38,Callum Wilson,eng ENG,Bournemouth,FW,Y,24,20,16,4,1423,71,6,0,3,3,29,0,0,12,0.38,0.38,0.19,0.19,0.76,1.83,0
+39,Marc Pugh,eng ENG,Bournemouth,MF,Y,29,21,16,5,1328,63,2,2,0,0,7,1,0,6,0.14,0.27,0.14,0.27,0.41,0.47,0.07
+40,Benik Afobe,eng ENG,Bournemouth,FW,F,23,31,14,17,1461,47,6,3,0,1,22,1,0,18,0.37,0.55,0.37,0.55,1.11,1.36,0.06
+41,Dan Gosling,eng ENG,Bournemouth,MF,Y,26,27,14,13,1366,51,2,0,0,0,26,6,0,4,0.13,0.13,0.13,0.13,0.26,1.71,0.4
+42,Jordon Ibe,eng ENG,Bournemouth,MF,Y,20,25,13,12,1055,42,0,0,0,0,7,0,0,1,0,0,0,0,0.09,0.6,0
+43,Nathan Ake,nl NED,Bournemouth,DF,Y,21,10,8,2,735,74,3,0,0,0,3,0,0,4,0.37,0.37,0.37,0.37,0.49,0.37,0
+44,Tyrone Mings,eng ENG,Bournemouth,DF,Y,23,7,5,2,506,72,0,0,0,0,7,0,0,1,0,0,0,0,0.18,1.25,0
+45,Lewis Cook,eng ENG,Bournemouth,MF,Y,19,6,4,2,432,72,0,1,0,0,3,1,0,2,0,0.21,0,0.21,0.42,0.62,0.21
+46,Brad Smith,eng ENG,Bournemouth,DF,Y,22,5,3,2,291,58,0,0,0,0,2,1,0,1,0,0,0,0,0.31,0.62,0.31
+47,Lys Mousset,fr FRA,Bournemouth,MF,Y,20,11,3,8,270,25,0,0,0,0,6,0,0,3,0,0,0,0,1,2,0
+48,Max Gradel,ci CIV,Bournemouth,MF,Y,28,11,0,11,134,12,0,0,0,0,4,3,0,2,0,0,0,0,1.34,2.69,2.01
+49,Lewis Grabban,eng ENG,Bournemouth,FW,N,28,3,0,3,60,20,0,0,0,0,1,0,0,1,0,0,0,0,1.5,1.5,0
+50,Matt Worthington,eng ENG,Bournemouth,MF,Y,18,1,0,1,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Baily Cargill,eng ENG,Bournemouth,DF,N,21,1,0,1,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Jermain Defoe,eng ENG,Bournemouth,FW,Y,33,37,37,0,3321,90,15,2,5,5,25,1,0,31,0.41,0.46,0.27,0.33,0.84,0.68,0.03
+53,Alexis Sanchez,cl CHI,Arsenal,MF,F,27,38,36,2,3217,85,24,10,2,3,48,6,0,49,0.67,0.95,0.62,0.9,1.37,1.34,0.17
+54,Nacho Monreal,es ESP,Arsenal,DF,Y,30,36,35,1,3153,88,0,2,0,0,33,5,0,2,0,0.06,0,0.06,0.06,0.94,0.14
+55,Laurent Koscielny,fr FRA,Arsenal,DF,Y,30,33,33,0,2822,86,2,0,0,0,19,4,1,4,0.06,0.06,0.06,0.06,0.13,0.61,0.16
+56,Mesut Ozil,de GER,Arsenal,MF,Y,27,33,32,1,2841,86,8,10,0,0,13,2,0,18,0.25,0.57,0.25,0.57,0.57,0.41,0.06
+57,Granit Xhaka,ch SUI,Arsenal,MF,Y,23,32,28,4,2485,78,2,2,0,0,37,5,2,9,0.07,0.14,0.07,0.14,0.33,1.34,0.25
+58,Hector Bellerin,es ESP,Arsenal,DF,Y,21,33,27,6,2503,76,1,4,0,0,20,4,0,5,0.04,0.18,0.04,0.18,0.18,0.72,0.14
+59,Shkodran Mustafi,de GER,Arsenal,DF,Y,24,26,26,0,2274,88,2,2,0,0,36,11,0,6,0.08,0.16,0.08,0.16,0.24,1.42,0.44
+60,Theo Walcott,eng ENG,Arsenal,FW,F,27,28,23,5,1916,68,10,2,0,1,15,1,0,29,0.47,0.56,0.47,0.56,1.36,0.7,0.05
+61,Francis Coquelin,fr FRA,Arsenal,MF,F,25,29,22,7,1779,61,0,0,0,0,33,5,0,3,0,0,0,0,0.15,1.67,0.25
+62,Alex Iwobi,ng NGA,Arsenal,FW,Y,20,26,18,8,1456,56,3,4,0,0,7,1,0,11,0.19,0.43,0.19,0.43,0.68,0.43,0.06
+63,Alex Oxlade-Chamberlain,eng ENG,Arsenal,MF,N,22,29,16,13,1628,56,2,7,0,0,30,1,0,8,0.11,0.5,0.11,0.5,0.44,1.66,0.06
+64,Gabriel Paulista,br BRA,Arsenal,DF,Y,25,19,15,4,1517,80,0,0,0,0,19,6,0,2,0,0,0,0,0.12,1.13,0.36
+65,Aaron Ramsey,wal WAL,Arsenal,MF,Y,25,23,13,10,1236,54,1,4,0,0,15,3,0,12,0.07,0.36,0.07,0.36,0.87,1.09,0.22
+66,Olivier Giroud,fr FRA,Arsenal,FW,F,29,29,11,18,1206,42,12,3,0,0,21,2,0,20,0.9,1.12,0.9,1.12,1.49,1.57,0.15
+67,Rob Holding,eng ENG,Arsenal,DF,Y,20,9,9,0,810,90,0,0,0,0,10,3,0,2,0,0,0,0,0.22,1.11,0.33
+68,Danny Welbeck,eng ENG,Arsenal,FW,Y,25,16,8,8,748,47,2,2,0,0,7,0,0,9,0.24,0.48,0.24,0.48,1.08,0.84,0
+69,Kieran Gibbs,eng ENG,Arsenal,DF,N,26,11,8,3,702,64,0,1,0,0,11,3,0,1,0,0.13,0,0.13,0.13,1.41,0.38
+70,Mohamed Elneny,eg EGY,Arsenal,MF,Y,24,14,8,6,694,50,0,1,0,0,10,1,0,2,0,0.13,0,0.13,0.26,1.3,0.13
+71,Santi Cazorla,es ESP,Arsenal,MF,Y,31,8,7,1,618,77,2,1,2,2,4,2,0,4,0.29,0.44,0,0.15,0.58,0.58,0.29
+72,Lucas Perez,es ESP,Arsenal,FW,N,27,11,2,9,272,25,1,0,0,0,3,0,0,4,0.33,0.33,0.33,0.33,1.32,0.99,0
+73,Calum Chambers,eng ENG,Arsenal,DF,Y,21,1,1,0,90,90,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0
+74,Carl Jenkinson,eng ENG,Arsenal,DF,N,24,1,1,0,82,82,0,0,0,0,1,0,0,0,0,0,0,0,0,1.1,0
+75,Mathieu Debuchy,fr FRA,Arsenal,DF,N,31,1,1,0,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Jack Wilshere,eng ENG,Arsenal,MF,Y,24,2,0,2,39,20,0,0,0,0,2,1,0,0,0,0,0,0,0,4.62,2.31
+77,Per Mertesacker,de GER,Arsenal,DF,Y,31,1,0,1,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Henrikh Mkhitaryan,am ARM,Arsenal,MF,S,27,24,15,9,1348,56,4,1,0,0,19,1,0,16,0.27,0.33,0.27,0.33,1.07,1.27,0.07
+79,Sead Kolasinac,ba BIH,Arsenal,DF,Y,23,25,24,1,2065,83,3,5,0,0,39,5,0,5,0.13,0.35,0.13,0.35,0.22,1.7,0.22
+80,Alexandre Lacazette,fr FRA,Arsenal,FW,Y,25,30,28,2,2405,80,28,3,10,12,55,3,0,48,1.05,1.16,0.67,0.79,1.8,2.06,0.11
+81,Pierre-Emerick Aubameyang,ga GAB,Arsenal,FW,Y,27,32,31,1,2779,87,31,3,2,4,22,3,0,58,1,1.1,0.94,1.04,1.88,0.71,0.1
+82,Ainsley Maitland-Niles,eng ENG,Arsenal,MF,Y,18,1,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Anthony Knockaert,fr FRA,Brighton,MF,Y,24,45,44,1,3773,84,15,8,0,0,48,10,0,38,0.36,0.55,0.36,0.55,0.91,1.14,0.24
+84,Lewis Dunk,eng ENG,Brighton,DF,Y,24,43,43,0,3740,87,2,1,0,0,39,13,1,13,0.05,0.07,0.05,0.07,0.31,0.94,0.34
+85,Bruno,es ESP,Brighton,DF,Y,35,42,42,0,3715,89,0,3,0,0,30,0,0,2,0,0.07,0,0.07,0.05,0.73,0
+86,Glenn Murray,eng ENG,Brighton,FW,Y,32,45,39,6,3439,76,23,5,4,4,117,6,1,45,0.6,0.73,0.5,0.63,1.18,3.06,0.18
+87,Dale Stephens,eng ENG,Brighton,MF,Y,27,39,33,6,3041,78,2,2,0,0,53,7,1,7,0.06,0.12,0.06,0.12,0.21,1.57,0.24
+88,Shane Duffy,ie IRL,Brighton,DF,Y,24,31,31,0,2790,90,2,0,0,0,31,5,0,6,0.06,0.06,0.06,0.06,0.19,1,0.16
+89,Sam Baldock,eng ENG,Brighton,FW,N,27,31,27,4,2162,70,11,4,0,0,32,5,1,25,0.46,0.62,0.46,0.62,1.04,1.33,0.25
+90,Steve Sidwell,eng ENG,Brighton,MF,N,33,34,26,8,2383,70,1,0,0,0,45,4,0,3,0.04,0.04,0.04,0.04,0.11,1.7,0.15
+91,Gaetan Bong,cm CMR,Brighton,DF,Y,28,24,24,0,2160,90,0,4,0,0,23,6,1,1,0,0.17,0,0.17,0.04,0.96,0.29
+92,Jiri� Skalak,cz CZE,Brighton,FW,Y,24,31,24,7,1891,61,0,5,0,0,22,2,0,6,0,0.24,0,0.24,0.29,1.05,0.1
+93,Jamie Murphy,sco SCO,Brighton,FW,N,26,35,20,15,1880,54,2,3,0,0,10,1,0,14,0.1,0.24,0.1,0.24,0.67,0.48,0.05
+94,Tomer Hemed,il ISR,Brighton,FW,Y,29,37,20,17,1832,50,11,2,6,7,26,2,0,22,0.54,0.64,0.25,0.34,1.08,1.28,0.1
+95,Beram Kayal,il ISR,Brighton,MF,Y,28,20,17,3,1385,69,0,1,0,0,35,1,0,2,0,0.06,0,0.06,0.13,2.27,0.06
+96,Oliver Norwood,nir NIR,Brighton,MF,Y,25,33,16,17,1633,50,0,2,0,0,24,3,0,1,0,0.11,0,0.11,0.06,1.32,0.17
+97,Sebastien Pocognoli,be BEL,Brighton,DF,Y,28,19,16,3,1371,72,1,1,0,0,21,2,0,1,0.07,0.13,0.07,0.13,0.07,1.38,0.13
+98,Uwe Hunemeier,de GER,Brighton,DF,Y,30,11,11,0,990,90,1,0,0,0,5,0,0,2,0.09,0.09,0.09,0.09,0.18,0.45,0
+99,Solly March,eng ENG,Brighton,MF,Y,22,25,9,16,1069,43,3,2,0,0,17,0,0,8,0.25,0.42,0.25,0.42,0.67,1.43,0
+100,Liam Rosenior,eng ENG,Brighton,DF,Y,32,10,9,1,820,82,0,1,0,0,3,2,0,0,0,0.11,0,0.11,0,0.33,0.22
+101,Connor Goldson,eng ENG,Brighton,DF,Y,23,5,4,1,371,74,0,0,0,0,2,0,0,0,0,0,0,0,0,0.49,0
+102,Fikayo Tomori,ca CAN,Brighton,DF,Y,18,9,2,7,395,44,0,0,0,0,1,0,0,0,0,0,0,0,0,0.23,0
+103,Chuba Akpom,eng ENG,Brighton,FW,N,20,10,1,9,186,19,0,0,0,0,4,0,0,0,0,0,0,0,0,1.94,0
+104,Sam Adekugbe,ca CAN,Brighton,DF,N,21,1,1,0,90,90,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+105,Kazenga LuaLua,cd COD,Brighton,MF,N,25,3,0,3,46,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,Elvis Manu,nl NED,Brighton,MF,N,22,2,0,2,30,15,0,0,0,0,1,1,0,0,0,0,0,0,0,3,3
+107,Rob Hunt,eng ENG,Brighton,DF,N,21,1,0,1,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,Richie Towell,ie IRL,Brighton,MF,N,25,1,0,1,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Davy Propper,nl NED,Brighton,MF,Y,24,34,33,1,2889,85,6,7,0,0,31,2,0,25,0.19,0.4,0.19,0.4,0.78,0.97,0.06
+110,Jurgen Locadia,nl NED,Brighton,FW,S,22,14,9,5,764,55,3,2,0,0,14,2,0,9,0.35,0.59,0.35,0.59,1.06,1.65,0.24
+111,Jose Izquierdo,co COL,Brighton,FW,Y,24,28,26,2,2141,77,14,0,0,0,,5,0,43,0.59,0.59,0.59,0.59,1.81,,0.21
+112,Pascal Gross,de GER,Brighton,MF,Y,25,33,31,2,2720,82,5,3,3,3,47,5,0,14,0.17,0.26,0.07,0.17,0.46,1.56,0.17
+113,Ezequiel Schelotto,it ITA,Brighton,DF,Y,27,23,22,1,1946,85,0,5,0,0,25,4,0,4,0,0.23,0,0.23,0.18,1.16,0.18
+114,Leonardo Ulloa,"ar ARG,es ESP",Brighton,FW,S,30,16,3,13,447,28,1,0,0,0,20,0,0,5,0.2,0.2,0.2,0.2,1.01,4.03,0
+115,Markus Suttner,at AUT,Brighton,DF,Y,29,31,31,0,2732,88,4,5,0,0,35,10,0,24,0.13,0.3,0.13,0.3,0.79,1.15,0.33
+116,Izzy Brown,eng ENG,Brighton,MF,Y,19,15,12,3,1009,67,4,1,0,0,15,3,0,7,0.36,0.45,0.36,0.45,0.62,1.34,0.27
+117,Stephen Ward,ie IRL,Burnley,DF,Y,30,37,37,0,3230,87,1,1,0,0,34,5,0,1,0.03,0.06,0.03,0.06,0.03,0.95,0.14
+118,Matthew Lowton,eng ENG,Burnley,DF,Y,27,36,36,0,3240,90,0,2,0,0,34,9,0,2,0,0.06,0,0.06,0.06,0.94,0.25
+119,Michael Keane,eng ENG,Burnley,DF,N,23,35,35,0,3150,90,2,1,0,0,16,4,0,7,0.06,0.09,0.06,0.09,0.2,0.46,0.11
+120,Ben Mee,eng ENG,Burnley,DF,Y,26,34,34,0,3015,89,1,0,0,0,23,5,0,6,0.03,0.03,0.03,0.03,0.18,0.69,0.15
+121,George Boyd,sco SCO,Burnley,MF,N,30,36,33,3,2836,79,2,1,0,0,32,3,0,7,0.06,0.1,0.06,0.1,0.22,1.02,0.1
+122,Jeff Hendrick,ie IRL,Burnley,MF,Y,24,32,31,1,2692,84,2,1,0,0,42,6,1,6,0.07,0.1,0.07,0.1,0.2,1.4,0.23
+123,Andre Gray,eng ENG,Burnley,FW,N,25,32,26,6,2259,71,9,3,2,2,17,2,0,19,0.36,0.48,0.28,0.4,0.76,0.68,0.08
+124,Scott Arfield,ca CAN,Burnley,MF,Y,27,31,23,8,2102,68,1,1,0,0,37,3,0,7,0.04,0.09,0.04,0.09,0.3,1.58,0.13
+125,Sam Vokes,wal WAL,Burnley,FW,Y,26,37,21,16,2064,56,10,3,2,2,24,0,0,23,0.44,0.57,0.35,0.48,1,1.05,0
+126,Dean Marney,eng ENG,Burnley,MF,Y,32,21,21,0,1764,84,1,2,0,0,34,7,0,3,0.05,0.15,0.05,0.15,0.15,1.73,0.36
+127,Ashley Barnes,at AUT,Burnley,FW,Y,26,28,20,8,1773,63,6,2,2,2,54,7,1,19,0.3,0.41,0.2,0.3,0.96,2.74,0.41
+128,Steven Defour,be BEL,Burnley,MF,Y,28,21,16,5,1068,51,1,3,0,0,14,1,0,6,0.08,0.34,0.08,0.34,0.51,1.18,0.08
+129,Joey Barton,eng ENG,Burnley,MF,N,33,14,12,2,1105,79,1,0,0,0,20,4,0,3,0.08,0.08,0.08,0.08,0.24,1.63,0.33
+130,Johann Berg Gudmundsson,is ISL,Burnley,MF,Y,25,20,10,10,998,50,1,2,0,0,3,1,0,8,0.09,0.27,0.09,0.27,0.72,0.27,0.09
+131,Robbie Brady,ie IRL,Burnley,MF,Y,24,14,7,7,719,51,1,2,0,0,8,1,0,3,0.13,0.38,0.13,0.38,0.38,1,0.13
+132,Ashley Westwood,eng ENG,Burnley,MF,Y,26,9,6,3,551,61,0,0,0,0,8,3,0,0,0,0,0,0,0,1.31,0.49
+133,James Tarkowski,eng ENG,Burnley,DF,Y,23,19,4,15,568,30,0,0,0,0,10,1,0,0,0,0,0,0,0,1.58,0.16
+134,Jon Flanagan,eng ENG,Burnley,DF,N,23,6,3,3,360,60,0,0,0,0,9,2,0,0,0,0,0,0,0,2.25,0.5
+135,Kevin Long,ie IRL,Burnley,DF,Y,25,3,3,0,270,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.33,0
+136,Michael Kightly,eng ENG,Burnley,MF,N,30,5,1,4,104,21,0,0,0,0,3,0,0,1,0,0,0,0,0.87,2.6,0
+137,David Jones,eng ENG,Burnley,MF,Y,31,1,1,0,86,86,0,0,0,0,1,1,0,0,0,0,0,0,0,1.05,1.05
+138,Aiden O'Neill,au AUS,Burnley,MF,Y,18,3,0,3,85,28,0,0,0,0,1,0,0,0,0,0,0,0,0,1.06,0
+139,Patrick Bamford,eng ENG,Burnley,FW,N,22,6,0,6,39,7,0,0,0,0,1,0,0,0,0,0,0,0,0,2.31,0
+140,Dan Agyei,eng ENG,Burnley,FW,Y,19,3,0,3,25,8,0,0,0,0,1,0,0,0,0,0,0,0,0,3.6,0
+141,Lukas Jutkiewicz,pl POL,Burnley,FW,N,27,2,0,2,13,7,0,0,0,0,1,0,0,0,0,0,0,0,0,6.92,0
+142,Jonathan Walters,ie IRL,Burnley,FW,Y,32,23,13,10,1304,57,4,2,1,1,13,1,0,12,0.28,0.41,0.21,0.35,0.83,0.9,0.07
+143,Jack Cork,eng ENG,Burnley,MF,Y,27,30,25,5,2232,74,0,0,0,0,24,7,0,5,0,0,0,0,0.2,0.97,0.28
+144,Phil Bardsley,sco SCO,Burnley,DF,Y,31,15,14,1,1168,78,0,0,0,0,25,5,1,2,0,0,0,0,0.15,1.93,0.46
+145,Georges-Kevin N'Koudou,fr FRA,Burnley,MF,S,21,8,0,8,54,7,0,0,0,0,1,0,0,1,0,0,0,0,1.67,1.67,0
+146,Nahki Wells,bm BER,Burnley,FW,Y,26,43,31,12,3031,71,10,2,0,0,41,4,0,34,0.3,0.36,0.3,0.36,1.01,1.22,0.12
+147,Chris Wood,nz NZL,Burnley,FW,Y,24,44,41,3,3621,82,27,4,5,5,64,2,0,44,0.67,0.77,0.55,0.65,1.09,1.59,0.05
+148,Charlie Taylor,eng ENG,Burnley,DF,Y,22,29,26,3,2351,81,0,3,0,0,15,3,0,1,0,0.11,0,0.11,0.04,0.57,0.11
+149,Aaron Lennon,eng ENG,Burnley,MF,S,29,11,6,5,509,46,0,1,0,0,2,0,0,0,0,0.18,0,0.18,0,0.35,0
+150,Caesar Azpilicueta,es ESP,Chelsea,DF,Y,26,38,38,0,3420,90,1,4,0,0,28,4,0,6,0.03,0.13,0.03,0.13,0.16,0.74,0.11
+151,Gary Cahill,eng ENG,Chelsea,DF,Y,30,37,36,1,3296,89,6,0,0,0,34,5,0,11,0.16,0.16,0.16,0.16,0.3,0.93,0.14
+152,Eden Hazard,be BEL,Chelsea,MF,Y,25,36,36,0,2982,83,16,5,2,3,19,3,0,32,0.48,0.63,0.42,0.57,0.97,0.57,0.09
+153,N'Golo Kante,fr FRA,Chelsea,MF,Y,25,35,35,0,3138,90,1,1,0,0,54,9,0,7,0.03,0.06,0.03,0.06,0.2,1.55,0.26
+154,Diego Costa,es ESP,Chelsea,FW,N,27,35,35,0,3082,88,20,6,0,1,42,10,0,41,0.58,0.76,0.58,0.76,1.2,1.23,0.29
+155,David Luiz,br BRA,Chelsea,DF,Y,29,33,33,0,2954,90,1,0,0,0,29,6,0,10,0.03,0.03,0.03,0.03,0.3,0.88,0.18
+156,Nemanja Matic,rs SRB,Chelsea,MF,N,27,35,30,5,2694,77,1,7,0,0,33,4,0,7,0.03,0.27,0.03,0.27,0.23,1.1,0.13
+157,Marcos Alonso,es ESP,Chelsea,DF,Y,25,31,30,1,2693,87,6,3,0,0,25,2,0,17,0.2,0.3,0.2,0.3,0.57,0.84,0.07
+158,Victor Moses,ng NGA,Chelsea,DF,Y,25,34,29,5,2483,73,3,2,0,0,28,4,0,15,0.11,0.18,0.11,0.18,0.54,1.01,0.14
+159,Pedro,es ESP,Chelsea,MF,Y,29,35,26,9,2140,61,9,9,0,0,32,6,0,18,0.38,0.76,0.38,0.76,0.76,1.35,0.25
+160,Willian,br BRA,Chelsea,MF,Y,27,34,15,19,1534,45,8,2,0,0,12,3,0,15,0.47,0.59,0.47,0.59,0.88,0.7,0.18
+161,Cesc Fabregas,es ESP,Chelsea,MF,Y,29,29,13,16,1339,46,5,12,0,0,23,8,0,9,0.34,1.14,0.34,1.14,0.6,1.55,0.54
+162,Branislav Ivanovic,rs SRB,Chelsea,DF,N,32,13,6,7,589,45,0,0,0,0,8,2,0,2,0,0,0,0,0.31,1.22,0.31
+163,John Terry,eng ENG,Chelsea,DF,N,35,9,6,3,496,55,1,0,0,0,5,1,0,2,0.18,0.18,0.18,0.18,0.36,0.91,0.18
+164,Oscar,br BRA,Chelsea,MF,N,24,9,5,4,455,51,0,1,0,0,5,1,0,2,0,0.2,0,0.2,0.4,0.99,0.2
+165,Kurt Zouma,fr FRA,Chelsea,DF,N,21,9,3,6,250,28,0,0,0,0,2,0,0,0,0,0,0,0,0,0.72,0
+166,Michy Batshuayi,be BEL,Chelsea,FW,F,22,20,1,19,254,13,5,1,0,0,9,0,0,8,1.77,2.13,1.77,2.13,2.83,3.19,0
+167,Nathaniel Chalobah,eng ENG,Chelsea,MF,N,21,10,1,9,167,17,0,0,0,0,2,2,0,1,0,0,0,0,0.54,1.08,1.08
+168,Nathan Ake,nl NED,Chelsea,DF,N,21,2,1,1,99,50,0,0,0,0,1,1,0,0,0,0,0,0,0,0.91,0.91
+169,Kenedy,br BRA,Chelsea,MF,F,20,1,1,0,74,74,0,0,0,0,1,0,0,0,0,0,0,0,0,1.22,0
+170,Ruben Loftus-Cheek,eng ENG,Chelsea,MF,N,20,6,0,6,35,6,0,0,0,0,2,0,0,1,0,0,0,0,2.57,5.14,0
+171,Tiemoue Bakayoko,fr FRA,Chelsea,MF,Y,21,32,25,7,2223,70,2,1,0,0,56,2,1,9,0.08,0.12,0.08,0.12,0.36,2.27,0.12
+172,Antonio Rudiger,de GER,Chelsea,DF,Y,23,26,25,1,2205,85,0,1,0,0,45,7,1,2,0,0.04,0,0.04,0.08,1.84,0.33
+173,Davide Zappacosta,it ITA,Chelsea,DF,Y,24,29,25,4,2337,81,1,5,0,0,28,1,0,6,0.04,0.23,0.04,0.23,0.23,1.08,0.04
+174,Emerson Palmieri,br BRA,Chelsea,DF,S,21,25,23,2,1965,79,0,1,0,0,12,1,0,4,0,0.05,0,0.05,0.18,0.55,0.05
+175,Olivier Giroud,fr FRA,Chelsea,FW,S,29,29,11,18,1206,42,12,3,0,0,21,2,0,20,0.9,1.12,0.9,1.12,1.49,1.57,0.15
+176,Ross Barkley,eng ENG,Chelsea,MF,S,22,36,32,4,2899,81,5,8,0,0,49,5,0,30,0.16,0.4,0.16,0.4,0.93,1.52,0.16
+177,Álvaro Morata,es ESP,Chelsea,FW,Y,23,26,14,12,1336,51,14,4,0,0,32,8,0,31,0.94,1.21,0.94,1.21,2.09,2.16,0.54
+178,Danny Drinkwater,eng ENG,Chelsea,MF,Y,26,29,27,2,2466,85,1,2,0,0,46,6,0,3,0.04,0.11,0.04,0.11,0.11,1.68,0.22
+179,Ola Aina,eng ENG,Chelsea,DF,N,19,3,0,3,26,9,0,0,0,0,0,0,0,1,0,0,0,0,3.46,0,0
+180,Joel Ward,eng ENG,Crystal Palace,DF,Y,26,38,38,0,3417,90,0,1,0,0,36,7,0,3,0,0.03,0,0.03,0.08,0.95,0.18
+181,Christian Benteke,be BEL,Crystal Palace,FW,Y,25,36,36,0,3131,87,15,2,2,4,81,10,0,40,0.43,0.49,0.37,0.43,1.15,2.33,0.29
+182,Jason Puncheon,eng ENG,Crystal Palace,MF,Y,30,36,35,1,3091,86,0,5,0,0,61,9,0,10,0,0.15,0,0.15,0.29,1.78,0.26
+183,Wilfried Zaha,eng ENG,Crystal Palace,FW,Y,23,35,34,1,3019,86,7,8,0,0,56,8,0,18,0.21,0.45,0.21,0.45,0.54,1.67,0.24
+184,Andros Townsend,eng ENG,Crystal Palace,MF,Y,25,36,30,6,2519,70,3,4,0,0,19,4,0,13,0.11,0.25,0.11,0.25,0.46,0.68,0.14
+185,Yohan Cabaye,fr FRA,Crystal Palace,MF,Y,30,32,25,7,2125,66,4,2,0,1,31,7,0,11,0.17,0.25,0.17,0.25,0.47,1.31,0.3
+186,Martin Kelly,eng ENG,Crystal Palace,DF,Y,26,29,25,4,2123,73,0,2,0,0,18,4,0,0,0,0.08,0,0.08,0,0.76,0.17
+187,James McArthur,sco SCO,Crystal Palace,MF,Y,28,29,24,5,1999,69,5,3,0,0,41,5,0,6,0.23,0.36,0.23,0.36,0.27,1.85,0.23
+188,James Tomkins,eng ENG,Crystal Palace,DF,Y,27,24,23,1,1974,82,3,0,0,0,11,4,0,4,0.14,0.14,0.14,0.14,0.18,0.5,0.18
+189,Damien Delaney,ie IRL,Crystal Palace,DF,Y,35,30,21,9,2014,67,0,2,0,0,25,8,0,1,0,0.09,0,0.09,0.04,1.12,0.36
+190,Scott Dann,eng ENG,Crystal Palace,DF,Y,29,23,19,4,1797,78,3,1,0,0,13,2,0,10,0.15,0.2,0.15,0.2,0.5,0.65,0.1
+191,Luka Milivojevic,rs SRB,Crystal Palace,MF,Y,25,14,14,0,1224,87,2,1,2,2,27,4,0,4,0.15,0.22,0,0.07,0.29,1.99,0.29
+192,Joe Ledley,wal WAL,Crystal Palace,MF,Y,29,18,13,5,1160,64,1,1,0,0,9,1,0,1,0.08,0.16,0.08,0.16,0.08,0.7,0.08
+193,Jeffrey Schlupp,gh GHA,Crystal Palace,MF,Y,23,15,11,4,998,67,0,0,0,0,4,0,0,0,0,0,0,0,0,0.36,0
+194,Patrick van Aanholt,nl NED,Crystal Palace,DF,Y,25,11,8,3,714,65,2,0,0,0,3,1,0,3,0.25,0.25,0.25,0.25,0.38,0.38,0.13
+195,Mamadou Sakho,fr FRA,Crystal Palace,DF,Y,26,8,8,0,686,86,0,0,0,0,1,0,0,0,0,0,0,0,0,0.13,0
+196,Lee Chung-yong,kr KOR,Crystal Palace,MF,Y,28,15,4,11,471,31,0,0,0,0,5,0,0,2,0,0,0,0,0.38,0.96,0
+197,Connor Wickham,eng ENG,Crystal Palace,FW,Y,23,8,4,4,412,52,2,0,0,0,12,1,0,5,0.44,0.44,0.44,0.44,1.09,2.62,0.22
+198,Mathieu Flamini,fr FRA,Crystal Palace,MF,Y,32,10,3,7,274,27,0,0,0,0,1,0,0,1,0,0,0,0,0.33,0.33,0
+199,Pape Souare,sn SEN,Crystal Palace,DF,Y,26,3,3,0,269,90,0,0,0,0,1,0,0,0,0,0,0,0,0,0.33,0
+200,Loic Remy,fr FRA,Crystal Palace,FW,N,29,5,1,4,134,27,0,0,0,0,2,0,0,3,0,0,0,0,2.01,1.34,0
+201,Mile Jedinak,au AUS,Crystal Palace,MF,N,31,1,1,0,90,90,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0
+202,Zeki Fryers,eng ENG,Crystal Palace,DF,N,23,8,0,8,188,24,0,0,0,0,4,0,0,0,0,0,0,0,0,1.91,0
+203,Fraizer Campbell,eng ENG,Crystal Palace,FW,N,28,12,0,12,165,14,1,0,0,0,2,0,0,1,0.55,0.55,0.55,0.55,0.55,1.09,0
+204,Bakary Sako,ml MLI,Crystal Palace,MF,Y,28,7,0,7,142,20,0,0,0,0,2,0,0,1,0,0,0,0,0.63,1.27,0
+205,Jordon Mutch,eng ENG,Crystal Palace,MF,N,24,4,0,4,53,13,0,0,0,0,1,0,0,0,0,0,0,0,0,1.7,0
+206,Yannick Bolasie,cd COD,Crystal Palace,MF,N,27,1,0,1,25,25,0,0,0,0,1,1,0,0,0,0,0,0,0,3.6,3.6
+207,Sullay Kaikai,eng ENG,Crystal Palace,MF,Y,20,1,0,1,24,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,Jonathan Benteke,be BEL,Crystal Palace,FW,N,21,1,0,1,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,Ruben Loftus-Cheek,eng ENG,Crystal Palace,MF,Y,20,6,0,6,35,6,0,0,0,0,2,0,0,1,0,0,0,0,2.57,5.14,0
+210,Jairo Riedewald,nl NED,Crystal Palace,DF,Y,24,16,11,5,1095,68,0,0,0,0,14,1,0,0,0,0,0,0,0,1.15,0.08
+211,Timothy Fosu-Mensah,nl NED,Crystal Palace,DF,Y,18,4,1,3,97,24,0,0,0,0,3,0,0,0,0,0,0,0,0,2.78,0
+212,Alexander Sorloth,no NOR,Crystal Palace,FW,S,20,25,6,19,1005,40,3,3,0,0,24,2,0,9,0.27,0.54,0.27,0.54,0.81,2.15,0.18
+213,Romelu Lukaku,be BEL,Everton,FW,N,23,37,36,1,3266,88,25,6,1,1,32,3,0,55,0.69,0.85,0.66,0.83,1.52,0.88,0.08
+214,Ashley Williams,wal WAL,Everton,DF,Y,31,36,35,1,3160,88,1,2,0,0,37,7,1,6,0.03,0.09,0.03,0.09,0.17,1.05,0.23
+215,Ross Barkley,eng ENG,Everton,MF,F,22,36,32,4,2899,81,5,8,0,0,49,5,0,30,0.16,0.4,0.16,0.4,0.93,1.52,0.16
+216,Leighton Baines,eng ENG,Everton,DF,Y,31,32,32,0,2819,88,2,3,2,3,35,4,0,5,0.06,0.16,0,0.1,0.16,1.12,0.13
+217,Idrissa Gana Gueye,sn SEN,Everton,MF,Y,26,33,32,1,2681,81,1,1,0,0,51,11,0,6,0.03,0.07,0.03,0.07,0.2,1.71,0.37
+218,Seamus Coleman,ie IRL,Everton,DF,Y,27,26,26,0,2316,89,4,3,0,0,18,3,0,8,0.16,0.27,0.16,0.27,0.31,0.7,0.12
+219,Phil Jagielka,eng ENG,Everton,DF,Y,33,27,25,2,2250,83,3,2,0,0,14,5,1,6,0.12,0.2,0.12,0.2,0.24,0.56,0.24
+220,Gareth Barry,eng ENG,Everton,MF,N,35,33,23,10,2108,64,2,1,0,0,47,10,0,7,0.09,0.13,0.09,0.13,0.3,2.01,0.43
+221,Kevin Mirallas,be BEL,Everton,MF,N,28,35,23,12,2074,59,4,7,0,0,26,2,0,23,0.17,0.48,0.17,0.48,1,1.13,0.09
+222,Tom Davies,eng ENG,Everton,MF,Y,18,24,18,6,1544,64,2,3,0,0,25,4,0,5,0.12,0.29,0.12,0.29,0.29,1.46,0.23
+223,Ramiro Funes Mori,ar ARG,Everton,DF,Y,25,23,16,7,1543,67,0,1,0,0,11,0,0,2,0,0.06,0,0.06,0.12,0.64,0
+224,Mason Holgate,eng ENG,Everton,DF,Y,19,18,16,2,1372,76,0,1,0,0,13,2,0,3,0,0.07,0,0.07,0.2,0.85,0.13
+225,Morgan Schneiderlin,fr FRA,Everton,MF,Y,26,14,12,2,1059,76,1,0,0,0,21,2,0,3,0.08,0.08,0.08,0.08,0.25,1.78,0.17
+226,Yannick Bolasie,cd COD,Everton,MF,Y,27,13,12,1,1023,79,1,4,0,0,22,2,0,6,0.09,0.44,0.09,0.44,0.53,1.94,0.18
+227,James McCarthy,ie IRL,Everton,MF,Y,25,12,7,5,613,51,1,1,0,0,10,2,0,3,0.15,0.29,0.15,0.29,0.44,1.47,0.29
+228,Aaron Lennon,eng ENG,Everton,MF,F,29,11,6,5,509,46,0,1,0,0,2,0,0,0,0,0.18,0,0.18,0,0.35,0
+229,Bryan Oviedo,cr CRC,Everton,DF,N,26,6,6,0,475,79,0,0,0,0,8,3,0,0,0,0,0,0,0,1.52,0.57
+230,Enner Valencia,ec ECU,Everton,FW,N,26,21,5,16,716,34,3,1,0,0,17,1,0,9,0.38,0.5,0.38,0.5,1.13,2.14,0.13
+231,Dominic Calvert-Lewin,eng ENG,Everton,FW,Y,19,11,5,6,347,32,1,0,0,0,4,1,0,2,0.26,0.26,0.26,0.26,0.52,1.04,0.26
+232,Gerard Deulofeu,es ESP,Everton,MF,N,22,11,4,7,460,42,0,0,0,0,2,1,0,3,0,0,0,0,0.59,0.39,0.2
+233,Tom Cleverley,eng ENG,Everton,MF,N,26,10,4,6,406,41,0,0,0,0,7,1,0,1,0,0,0,0,0.22,1.55,0.22
+234,Ademola Lookman,eng ENG,Everton,FW,F,18,8,3,5,289,36,1,0,0,0,4,0,0,6,0.31,0.31,0.31,0.31,1.87,1.25,0
+235,Matthew Pennington,eng ENG,Everton,DF,N,21,3,2,1,180,60,1,0,0,0,1,0,0,1,0.5,0.5,0.5,0.5,0.5,0.5,0
+236,Arouna Kone,ci CIV,Everton,FW,N,32,5,0,5,70,14,0,0,0,0,0,0,0,2,0,0,0,0,2.57,0,0
+237,Jonjoe Kenny,eng ENG,Everton,DF,Y,19,1,0,1,13,13,0,0,0,0,1,0,0,0,0,0,0,0,0,6.92,0
+238,Davy Klaassen,nl NED,Everton,MF,Y,23,33,33,0,2847,86,14,9,1,2,32,6,0,23,0.44,0.73,0.41,0.7,0.73,1.01,0.19
+239,Michael Keane,eng ENG,Everton,DF,Y,23,35,35,0,3150,90,2,1,0,0,16,4,0,7,0.06,0.09,0.06,0.09,0.2,0.46,0.11
+240,Wayne Rooney,eng ENG,Everton,FW,Y,30,25,15,10,1539,62,5,5,1,1,23,8,0,18,0.29,0.58,0.23,0.53,1.05,1.35,0.47
+241,Cuco Martina,cw CUW,Everton,DF,Y,26,9,6,3,592,66,0,0,0,0,4,0,0,0,0,0,0,0,0,0.61,0
+242,Gylfi Sigurgdsson,is ISL,Everton,MF,Y,26,38,37,1,3327,88,9,13,3,3,19,2,0,50,0.24,0.6,0.16,0.51,1.35,0.51,0.05
+243,Theo Walcott,eng ENG,Everton,FW,S,27,28,23,5,1916,68,10,2,0,1,15,1,0,29,0.47,0.56,0.47,0.56,1.36,0.7,0.05
+244,Nikola Vlasic,hr CRO,Everton,MF,Y,18,30,27,3,2356,79,4,7,1,1,,2,0,17,0.15,0.42,0.11,0.38,0.65,,0.08
+245,Eliaquim Mangala,fr FRA,Everton,DF,S,25,30,30,0,2644,88,2,0,0,0,41,11,1,7,0.07,0.07,0.07,0.07,0.24,1.4,0.41
+246,Cenk Tosun,tr TUR,Everton,FW,S,25,33,29,4,2529,77,20,5,6,6,47,5,0,43,0.71,0.89,0.5,0.68,1.53,1.67,0.18
+247,Sandro Ramirez,es ESP,Everton,FW,Y,21,30,28,2,2300,77,14,3,0,1,22,4,0,39,0.55,0.67,0.55,0.67,1.53,0.86,0.16
+248,Christopher Schindler,de GER,Huddersfield,DF,Y,26,44,43,1,3865,88,2,2,0,0,20,4,0,2,0.05,0.09,0.05,0.09,0.05,0.47,0.09
+249,Aaron Mooy,au AUS,Huddersfield,MF,Y,25,45,42,3,3833,85,4,7,1,2,41,6,0,19,0.09,0.26,0.07,0.23,0.45,0.96,0.14
+250,Elias Kachunga,de GER,Huddersfield,FW,Y,24,42,41,1,3597,86,12,2,0,0,53,6,0,30,0.3,0.35,0.3,0.35,0.75,1.33,0.15
+251,Tommy Smith,eng ENG,Huddersfield,DF,Y,24,42,40,2,3627,86,4,7,0,0,37,6,0,7,0.1,0.27,0.1,0.27,0.17,0.92,0.15
+252,Chris Lowe,"de GER,tr TUR",Huddersfield,DF,Y,27,41,39,2,3499,85,2,3,1,1,23,8,0,6,0.05,0.13,0.03,0.1,0.15,0.59,0.21
+253,Rajiv van La Parra,nl NED,Huddersfield,MF,Y,25,40,36,4,2998,75,2,3,0,1,56,4,1,19,0.06,0.15,0.06,0.15,0.57,1.68,0.15
+254,Jonathan Hogg,eng ENG,Huddersfield,MF,Y,27,37,33,4,2801,76,1,0,0,0,45,6,0,3,0.03,0.03,0.03,0.03,0.1,1.45,0.19
+255,Nahki Wells,bm BER,Huddersfield,FW,N,26,43,31,12,3031,71,10,2,0,0,41,4,0,34,0.3,0.36,0.3,0.36,1.01,1.22,0.12
+256,Michael Hefele,de GER,Huddersfield,DF,Y,25,37,28,9,2570,70,3,0,0,0,24,6,0,7,0.11,0.11,0.11,0.11,0.25,0.84,0.21
+257,Mark Hudson,eng ENG,Huddersfield,DF,N,34,22,17,5,1438,65,0,0,0,0,25,6,0,0,0,0,0,0,0,1.56,0.38
+258,Kasey Palmer,eng ENG,Huddersfield,MF,Y,19,24,16,8,1293,54,4,3,0,0,22,4,0,16,0.28,0.49,0.28,0.49,1.11,1.53,0.28
+259,Philip Billing,dk DEN,Huddersfield,MF,Y,20,24,13,11,1207,50,2,0,0,0,25,4,0,10,0.15,0.15,0.15,0.15,0.75,1.86,0.3
+260,Izzy Brown,eng ENG,Huddersfield,"MF,FW",N,19,15,12,3,1009,67,4,1,0,0,15,3,0,7,0.36,0.45,0.36,0.45,0.62,1.34,0.27
+261,Jack Payne,eng ENG,Huddersfield,MF,N,21,23,10,13,1105,48,2,2,0,0,9,1,1,14,0.16,0.33,0.16,0.33,1.14,0.73,0.16
+262,Dean Whitehead,eng ENG,Huddersfield,MF,Y,34,16,10,6,923,58,0,0,0,0,17,6,1,0,0,0,0,0,0,1.66,0.68
+263,Collin Quaner,de GER,Huddersfield,FW,Y,25,16,9,7,834,52,2,0,0,0,20,2,0,10,0.22,0.22,0.22,0.22,1.08,2.16,0.22
+264,Joe Lolley,eng ENG,Huddersfield,MF,F,23,19,8,11,810,43,1,0,0,0,7,0,0,8,0.11,0.11,0.11,0.11,0.89,0.78,0
+265,Sean Scannell,ie IRL,Huddersfield,"MF,FW",N,25,15,8,7,658,44,0,1,0,0,12,1,0,0,0,0.14,0,0.14,0,1.64,0.14
+266,Martin Cranie,eng ENG,Huddersfield,DF,N,29,14,7,7,636,45,0,1,0,0,11,1,0,0,0,0.14,0,0.14,0,1.56,0.14
+267,Tareiq Holmes-Dennis,eng ENG,Huddersfield,DF,N,20,9,7,2,515,57,0,0,0,0,6,2,0,1,0,0,0,0,0.17,1.05,0.35
+268,Harry Bunn,eng ENG,Huddersfield,"MF,FW",N,23,16,6,10,705,44,0,1,0,0,15,1,0,5,0,0.13,0,0.13,0.64,1.91,0.13
+269,Jon Gorenc Stankovic,si SVN,Huddersfield,MF,Y,20,7,4,3,406,58,0,0,0,0,9,2,0,0,0,0,0,0,0,2,0.44
+270,Ivan Paurevic,hr CRO,Huddersfield,MF,Y,25,1,0,1,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,Alex Pritchard,eng ENG,Huddersfield,MF,S,23,30,19,11,1725,58,6,7,0,0,9,1,0,23,0.31,0.68,0.31,0.68,1.2,0.47,0.05
+272,Florent Hadergjonaj,ch SUI,Huddersfield,DF,Y,22,25,25,0,2221,89,1,2,0,0,27,6,0,1,0.04,0.12,0.04,0.12,0.04,1.09,0.24
+273,Tom Ince,eng ENG,Huddersfield,MF,Y,24,45,41,4,3600,80,14,7,2,4,25,7,0,58,0.35,0.52,0.3,0.47,1.45,0.62,0.17
+274,Steve Mounie,bj BEN,Huddersfield,FW,Y,21,35,32,3,2825,81,14,2,0,0,59,5,1,40,0.45,0.51,0.45,0.51,1.27,1.88,0.19
+275,Scott Malone,eng ENG,Huddersfield,DF,Y,25,36,34,2,2936,82,6,3,0,0,29,6,0,12,0.18,0.28,0.18,0.28,0.37,0.89,0.18
+276,Danny Williams,us USA,Huddersfield,MF,Y,27,41,36,5,3344,82,4,1,1,2,35,9,1,23,0.11,0.13,0.08,0.11,0.62,0.94,0.27
+277,Laurent Depoitre,be BEL,Huddersfield,FW,Y,27,7,2,5,250,36,1,0,0,0,5,0,0,1,0.36,0.36,0.36,0.36,0.36,1.8,0
+278,Terence Kongolo,nl NED,Huddersfield,DF,S,23,3,3,0,256,85,0,0,0,0,2,0,0,0,0,0,0,0,0,0.7,0
+279,Abdelhamid Sabiri,ma MAR,Huddersfield,MF,Y,19,9,7,2,617,69,5,0,0,0,18,2,0,11,0.73,0.73,0.73,0.73,1.6,2.63,0.29
+280,Mathias Jorgensen,dk DEN,Huddersfield,DF,Y,26,33,33,0,2954,90,0,0,0,0,23,10,0,7,0,0,0,0,0.21,0.7,0.3
+281,Christian Fuchs,at AUT,Leicester,DF,Y,30,36,35,1,3103,86,2,3,0,0,29,10,0,6,0.06,0.15,0.06,0.15,0.17,0.84,0.29
+282,Danny Simpson,eng ENG,Leicester,DF,Y,29,35,34,1,2988,85,0,1,0,0,35,12,0,0,0,0.03,0,0.03,0,1.05,0.36
+283,Robert Huth,de GER,Leicester,DF,N,31,33,33,0,2926,89,2,1,0,0,45,9,0,8,0.06,0.09,0.06,0.09,0.25,1.38,0.28
+284,Riyad Mahrez,dz ALG,Leicester,MF,Y,25,36,33,3,2825,79,6,4,3,5,23,4,0,29,0.19,0.32,0.1,0.22,0.92,0.73,0.13
+285,Jamie Vardy,eng ENG,Leicester,FW,Y,29,35,33,2,2802,80,13,4,0,0,26,2,1,26,0.42,0.55,0.42,0.55,0.84,0.84,0.1
+286,Marc Albrighton,eng ENG,Leicester,MF,Y,26,33,29,4,2411,73,2,6,0,0,21,5,0,7,0.07,0.3,0.07,0.3,0.26,0.78,0.19
+287,Danny Drinkwater,eng ENG,Leicester,MF,N,26,29,27,2,2466,85,1,2,0,0,46,6,0,3,0.04,0.11,0.04,0.11,0.11,1.68,0.22
+288,Wes Morgan,jm JAM,Leicester,DF,Y,32,27,27,0,2430,90,1,0,0,0,20,3,0,3,0.04,0.04,0.04,0.04,0.11,0.74,0.11
+289,Shinji Okazaki,jp JPN,Leicester,FW,Y,30,30,21,9,1565,52,3,1,0,0,27,1,0,9,0.17,0.23,0.17,0.23,0.52,1.55,0.06
+290,Daniel Amartey,gh GHA,Leicester,MF,Y,21,24,17,7,1673,70,1,1,0,0,28,3,0,5,0.05,0.11,0.05,0.11,0.27,1.51,0.16
+291,Wilfred Ndidi,ng NGA,Leicester,DF,Y,19,17,17,0,1521,90,2,1,0,0,26,0,0,7,0.12,0.18,0.12,0.18,0.41,1.54,0
+292,Andy King,wal WAL,Leicester,MF,F,27,23,15,8,1446,63,1,0,0,0,18,4,0,7,0.06,0.06,0.06,0.06,0.44,1.12,0.25
+293,Islam Slimani,dz ALG,Leicester,FW,F,28,23,13,10,1281,56,7,4,1,1,27,1,0,13,0.49,0.77,0.42,0.7,0.91,1.9,0.07
+294,Yohan Benalouane,tn TUN,Leicester,DF,Y,29,11,11,0,917,83,0,0,0,0,15,4,0,1,0,0,0,0,0.1,1.47,0.39
+295,Demarai Gray,eng ENG,Leicester,MF,Y,20,30,9,21,1049,35,1,3,0,0,12,2,0,8,0.09,0.34,0.09,0.34,0.69,1.03,0.17
+296,Ahmed Musa,ng NGA,Leicester,FW,Y,23,21,7,14,761,36,2,1,0,0,13,1,0,6,0.24,0.35,0.24,0.35,0.71,1.54,0.12
+297,Ben Chilwell,eng ENG,Leicester,DF,Y,19,12,7,5,699,58,1,0,0,0,7,2,0,2,0.13,0.13,0.13,0.13,0.26,0.9,0.26
+298,Nampalys Mendy,fr FRA,Leicester,MF,Y,24,4,4,0,269,67,0,0,0,0,4,1,0,0,0,0,0,0,0,1.34,0.33
+299,Leonardo Ulloa,"ar ARG,es ESP",Leicester,FW,F,30,16,3,13,447,28,1,0,0,0,20,0,0,5,0.2,0.2,0.2,0.2,1.01,4.03,0
+300,Luis Hernandez,es ESP,Leicester,DF,Y,27,4,3,1,327,82,0,0,0,0,5,1,0,0,0,0,0,0,0,1.38,0.28
+301,Jeffrey Schlupp,gh GHA,Leicester,"MF,FW,DF",N,23,4,1,3,141,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Marcin Wasilewski,pl POL,Leicester,DF,Y,36,1,1,0,90,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Matty James,eng ENG,Leicester,MF,Y,25,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,Kelechi Iheanacho,ng NGA,Leicester,FW,Y,19,20,5,15,537,27,4,3,0,0,7,0,0,7,0.67,1.17,0.67,1.17,1.17,1.17,0
+305,Harry Maguire,eng ENG,Leicester,DF,Y,23,29,25,4,2307,80,2,1,0,0,24,5,0,10,0.08,0.12,0.08,0.12,0.39,0.94,0.2
+306,Vicente Iborra,es ESP,Leicester,MF,Y,28,31,12,19,1495,48,7,2,1,1,36,9,0,17,0.42,0.54,0.36,0.48,1.02,2.17,0.54
+307,Adrien Silva,pt POR,Leicester,MF,S,27,27,26,1,2151,80,4,2,2,4,61,6,0,17,0.17,0.25,0.08,0.17,0.71,2.55,0.25
+308,Aleksandar Dragovic,at AUT,Leicester,DF,Y,25,19,15,4,1259,66,0,1,0,0,14,1,0,2,0,0.07,0,0.07,0.14,1,0.07
+309,Kevin De Bruyne,be BEL,Manchester City,MF,Y,25,36,33,3,2877,80,6,17,0,1,37,4,0,19,0.19,0.72,0.19,0.72,0.59,1.16,0.13
+310,David Silva,es ESP,Manchester City,MF,Y,30,34,31,3,2759,81,4,7,0,0,29,6,0,17,0.13,0.36,0.13,0.36,0.55,0.95,0.2
+311,Fernandinho,br BRA,Manchester City,MF,Y,31,32,31,1,2756,86,2,1,0,0,48,4,2,11,0.07,0.1,0.07,0.1,0.36,1.57,0.2
+312,Nicolas Otamendi,ar ARG,Manchester City,DF,Y,28,30,29,1,2592,86,1,0,0,0,30,9,0,3,0.03,0.03,0.03,0.03,0.1,1.04,0.31
+313,Raheem Sterling,eng ENG,Manchester City,MF,Y,21,33,29,4,2508,76,7,8,0,0,35,7,0,24,0.25,0.54,0.25,0.54,0.86,1.26,0.25
+314,Aleksandar Kolarov,rs SRB,Manchester City,DF,N,30,29,27,2,2535,87,1,2,0,0,34,6,0,10,0.04,0.11,0.04,0.11,0.36,1.21,0.21
+315,Sergio Aguero,ar ARG,Manchester City,FW,Y,28,31,25,6,2403,78,20,4,4,5,23,4,1,54,0.75,0.9,0.6,0.75,2.02,0.86,0.19
+316,Gael Clichy,fr FRA,Manchester City,DF,N,31,25,24,1,2123,85,1,0,0,0,12,2,0,1,0.04,0.04,0.04,0.04,0.04,0.51,0.08
+317,John Stones,eng ENG,Manchester City,DF,Y,22,27,23,4,2014,75,0,0,0,0,9,1,0,2,0,0,0,0,0.09,0.4,0.04
+318,Yaya Toure,ci CIV,Manchester City,MF,Y,33,25,22,3,1941,78,5,0,2,2,27,4,0,15,0.23,0.23,0.14,0.14,0.7,1.25,0.19
+319,Leroy Sane,de GER,Manchester City,MF,Y,20,26,20,6,1781,69,5,2,0,0,14,4,0,14,0.25,0.35,0.25,0.35,0.71,0.71,0.2
+320,Bacary Sagna,fr FRA,Manchester City,DF,N,33,17,14,3,1346,79,0,1,0,0,3,2,0,0,0,0.07,0,0.07,0,0.2,0.13
+321,Jesus Navas,es ESP,Manchester City,MF,N,30,24,12,12,1064,44,0,1,0,0,7,2,0,2,0,0.08,0,0.08,0.17,0.59,0.17
+322,Pablo Zabaleta,ar ARG,Manchester City,DF,N,31,19,11,8,1036,55,1,1,0,0,14,2,0,2,0.09,0.17,0.09,0.17,0.17,1.22,0.17
+323,Vincent Kompany,be BEL,Manchester City,DF,Y,30,11,10,1,820,75,3,0,0,0,19,5,0,3,0.33,0.33,0.33,0.33,0.33,2.09,0.55
+324,Nolito,es ESP,Manchester City,"MF,FW",N,29,19,9,10,778,41,4,2,0,0,17,3,1,11,0.46,0.69,0.46,0.69,1.27,1.97,0.46
+325,Ilkay Gundogan,de GER,Manchester City,MF,Y,25,10,9,1,704,70,3,1,0,0,2,0,0,4,0.38,0.51,0.38,0.51,0.51,0.26,0
+326,Gabriel Jesus,br BRA,Manchester City,FW,Y,19,10,8,2,650,65,7,4,1,1,11,2,0,13,0.97,1.52,0.83,1.38,1.8,1.52,0.28
+327,Fernando,br BRA,Manchester City,MF,N,29,15,5,10,568,38,0,0,0,0,11,3,0,0,0,0,0,0,0,1.74,0.48
+328,Kelechi Iheanacho,ng NGA,Manchester City,FW,N,19,20,5,15,537,27,4,3,0,0,7,0,0,7,0.67,1.17,0.67,1.17,1.17,1.17,0
+329,Fabian Delph,eng ENG,Manchester City,MF,Y,26,7,2,5,224,32,1,0,0,0,6,1,0,2,0.4,0.4,0.4,0.4,0.8,2.41,0.4
+330,Aleix Garcia,es ESP,Manchester City,MF,N,19,4,1,3,77,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,Samir Nasri,fr FRA,Manchester City,"MF,FW",N,29,1,0,1,16,16,0,0,0,0,0,0,0,1,0,0,0,0,5.63,0,0
+332,Kyle Walker,eng ENG,Manchester City,DF,Y,26,33,31,2,2701,82,0,5,0,0,36,8,0,5,0,0.17,0,0.17,0.17,1.2,0.27
+333,Benjamin Mendy,fr FRA,Manchester City,DF,Y,22,25,24,1,2056,82,0,5,0,0,30,6,1,4,0,0.22,0,0.22,0.18,1.31,0.31
+334,Bernardo Silva,pt POR,Manchester City,MF,Y,21,37,33,4,2782,75,8,8,0,0,26,3,0,21,0.26,0.52,0.26,0.52,0.68,0.84,0.1
+335,Aymeric Laporte,fr FRA,Manchester City,DF,S,22,33,33,0,2863,87,2,0,0,0,30,10,0,6,0.06,0.06,0.06,0.06,0.19,0.94,0.31
+336,Danilo,br BRA,Manchester City,DF,Y,25,17,17,0,1484,87,1,2,0,0,18,2,0,4,0.06,0.18,0.06,0.18,0.24,1.09,0.12
+337,Paul Pogba,fr FRA,Manchester United,MF,Y,23,30,29,1,2608,87,5,4,0,0,63,7,0,32,0.17,0.31,0.17,0.31,1.1,2.17,0.24
+338,Antonio Valencia,ec ECU,Manchester United,DF,Y,30,28,27,1,2483,89,1,3,0,0,33,5,0,4,0.04,0.14,0.04,0.14,0.14,1.2,0.18
+339,Ander Herrera,es ESP,Manchester United,MF,Y,26,31,27,4,2464,80,1,5,0,0,48,6,1,5,0.04,0.22,0.04,0.22,0.18,1.75,0.26
+340,Zlatan Ibrahimovic,se SWE,Manchester United,FW,F,34,28,27,1,2438,87,17,5,2,3,54,7,0,45,0.63,0.81,0.55,0.74,1.66,1.99,0.26
+341,Eric Bailly,ci CIV,Manchester United,DF,Y,22,25,24,1,2058,82,0,0,0,0,28,4,0,1,0,0,0,0,0.04,1.22,0.17
+342,Daley Blind,nl NED,Manchester United,DF,N,26,23,20,3,1830,80,1,2,0,0,14,2,0,2,0.05,0.15,0.05,0.15,0.1,0.69,0.1
+343,Juan Mata,es ESP,Manchester United,MF,Y,28,25,19,6,1614,65,6,3,0,0,9,3,0,21,0.33,0.5,0.33,0.5,1.17,0.5,0.17
+344,Marcos Rojo,ar ARG,Manchester United,DF,Y,26,21,18,3,1663,79,1,0,0,0,23,5,0,4,0.05,0.05,0.05,0.05,0.22,1.24,0.27
+345,Marouane Fellaini,be BEL,Manchester United,MF,Y,28,28,18,10,1605,57,1,0,0,0,41,9,1,7,0.06,0.06,0.06,0.06,0.39,2.3,0.56
+346,Michael Carrick,eng ENG,Manchester United,MF,Y,35,23,18,5,1600,70,0,0,0,0,5,2,0,0,0,0,0,0,0,0.28,0.11
+347,Phil Jones,eng ENG,Manchester United,DF,Y,24,18,18,0,1584,88,0,0,0,0,9,2,0,1,0,0,0,0,0.06,0.51,0.11
+348,Anthony Martial,fr FRA,Manchester United,FW,Y,20,25,18,7,1554,62,4,5,0,0,26,2,0,18,0.23,0.52,0.23,0.52,1.04,1.51,0.12
+349,Jesse Lingard,eng ENG,Manchester United,MF,Y,23,25,18,7,1360,54,1,1,0,0,26,3,0,13,0.07,0.13,0.07,0.13,0.86,1.72,0.2
+350,Marcus Rashford,eng ENG,Manchester United,FW,Y,18,32,16,16,1710,53,5,1,0,0,16,3,0,17,0.26,0.32,0.26,0.32,0.89,0.84,0.16
+351,Wayne Rooney,eng ENG,Manchester United,"MF,FW",N,30,25,15,10,1539,62,5,5,1,1,23,8,0,18,0.29,0.58,0.23,0.53,1.05,1.35,0.47
+352,Henrikh Mkhitaryan,am ARM,Manchester United,MF,F,27,24,15,9,1348,56,4,1,0,0,19,1,0,16,0.27,0.33,0.27,0.33,1.07,1.27,0.07
+353,Matteo Darmian,it ITA,Manchester United,DF,Y,26,18,15,3,1333,74,0,0,0,0,19,3,0,0,0,0,0,0,0,1.28,0.2
+354,Chris Smalling,eng ENG,Manchester United,DF,Y,26,18,13,5,1217,68,1,0,0,0,8,0,0,1,0.07,0.07,0.07,0.07,0.07,0.59,0
+355,Luke Shaw,eng ENG,Manchester United,DF,Y,21,11,9,2,688,63,0,1,0,0,7,1,0,1,0,0.13,0,0.13,0.13,0.92,0.13
+356,Ashley Young,eng ENG,Manchester United,DF,Y,31,12,8,4,758,63,0,1,0,0,9,2,0,0,0,0.12,0,0.12,0,1.07,0.24
+357,Axel Tuanzebe,cd COD,Manchester United,DF,Y,18,4,4,0,303,76,0,0,0,0,6,0,0,0,0,0,0,0,0,1.78,0
+358,Timothy Fosu-Mensah,nl NED,Manchester United,DF,N,18,4,1,3,97,24,0,0,0,0,3,0,0,0,0,0,0,0,0,2.78,0
+359,Scott McTominay,sc SCO,Manchester United,MF,Y,19,2,1,1,97,49,0,0,0,0,2,1,0,0,0,0,0,0,0,1.86,0.93
+360,Josh Harrop,eng ENG,Manchester United,MF,N,20,1,1,0,90,90,1,0,0,0,4,0,0,1,1,1,1,1,1,4,0
+361,Demetri Mitchell,eng ENG,Manchester United,MF,Y,19,1,1,0,90,90,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0
+362,Memphis Depay,nl NED,Manchester United,"MF,FW",N,22,4,0,4,24,6,0,0,0,0,1,1,0,0,0,0,0,0,0,3.75,3.75
+363,Morgan Schneiderlin,fr FRA,Manchester United,MF,N,26,3,0,3,14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,Angel Gomes,eng ENG,Manchester United,MF,Y,15,1,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,Nemanja Matic,rs SRB,Manchester United,MF,Y,27,35,30,5,2694,77,1,7,0,0,33,4,0,7,0.03,0.27,0.03,0.27,0.23,1.1,0.13
+366,Romelu Lukaku,be BEL,Manchester United,FW,Y,23,37,36,1,3266,88,25,6,1,1,32,3,0,55,0.69,0.85,0.66,0.83,1.52,0.88,0.08
+367,Victor Lindelof,se SWE,Manchester United,DF,Y,22,32,32,0,2880,90,1,0,0,0,29,1,0,2,0.03,0.03,0.03,0.03,0.06,0.91,0.03
+368,Alexis Sanchez,cl CHI,Manchester United,MF,S,27,38,36,2,3217,85,24,10,2,3,48,6,0,49,0.67,0.95,0.62,0.9,1.37,1.34,0.17
+369,Paul Dummett,wal WAL,Newcastle United,DF,Y,24,45,44,1,3924,87,0,0,0,0,27,8,1,1,0,0,0,0,0.02,0.62,0.21
+370,Jamaal Lascelles,eng ENG,Newcastle United,DF,Y,22,43,41,2,3675,86,3,1,0,0,21,6,0,4,0.07,0.1,0.07,0.1,0.1,0.51,0.15
+371,Matt Ritchie,sco SCO,Newcastle United,MF,Y,26,42,40,2,3536,84,12,7,3,4,51,9,0,34,0.31,0.48,0.23,0.41,0.87,1.3,0.23
+372,Jonjo Shelvey,eng ENG,Newcastle United,MF,Y,24,42,38,4,3370,80,5,8,0,0,41,10,1,37,0.13,0.35,0.13,0.35,0.99,1.09,0.29
+373,Ciaran Clark,ie IRL,Newcastle United,DF,Y,26,34,34,0,3033,89,3,2,0,0,16,3,0,8,0.09,0.15,0.09,0.15,0.24,0.47,0.09
+374,Yoan Gouffran,fr FRA,Newcastle United,"MF,FW",N,30,39,33,6,2801,72,5,3,0,0,37,3,0,22,0.16,0.26,0.16,0.26,0.71,1.19,0.1
+375,Isaac Hayden,eng ENG,Newcastle United,DF,Y,21,33,28,5,2334,71,2,3,0,0,43,7,0,7,0.08,0.19,0.08,0.19,0.27,1.66,0.27
+376,Mohamed Diame,sn SEN,Newcastle United,MF,Y,29,37,27,10,2399,65,3,3,0,0,66,4,0,12,0.11,0.23,0.11,0.23,0.45,2.48,0.15
+377,Dwight Gayle,eng ENG,Newcastle United,FW,Y,25,32,26,6,2136,67,23,2,0,1,26,3,0,48,0.97,1.05,0.97,1.05,2.02,1.1,0.13
+378,Ayoze Perez,es ESP,Newcastle United,FW,Y,23,36,25,11,2292,64,9,4,0,0,43,2,0,26,0.35,0.51,0.35,0.51,1.02,1.69,0.08
+379,Vurnon Anita,nl NED,Newcastle United,"MF,DF",N,27,27,24,3,2269,84,0,1,0,0,17,1,1,0,0,0.04,0,0.04,0,0.67,0.08
+380,Jack Colback,eng ENG,Newcastle United,MF,Y,26,29,24,5,1971,68,0,1,0,0,45,10,0,3,0,0.05,0,0.05,0.14,2.05,0.46
+381,DeAndre Yedlin,us USA,Newcastle United,DF,Y,23,27,21,6,1923,71,1,5,0,0,23,3,0,2,0.05,0.28,0.05,0.28,0.09,1.08,0.14
+382,Christian Atsu,gh GHA,Newcastle United,MF,Y,24,32,15,17,1578,49,5,1,0,0,14,2,0,11,0.29,0.34,0.29,0.34,0.63,0.8,0.11
+383,Chancel Mbemba,cd COD,Newcastle United,DF,Y,21,12,12,0,1074,90,1,1,0,0,7,0,0,1,0.08,0.17,0.08,0.17,0.08,0.59,0
+384,Aleksandar Mitrovic,rs SRB,Newcastle United,FW,F,21,25,11,14,1131,45,4,6,0,0,29,3,0,19,0.32,0.8,0.32,0.8,1.51,2.31,0.24
+385,Daryl Murphy,ie IRL,Newcastle United,FW,N,33,15,7,8,689,46,5,1,0,0,12,0,0,8,0.65,0.78,0.65,0.78,1.04,1.57,0
+386,Grant Hanley,sco SCO,Newcastle United,DF,N,24,10,5,5,531,53,1,0,0,0,5,1,0,2,0.17,0.17,0.17,0.17,0.34,0.85,0.17
+387,Jeses Gaimez,es ESP,Newcastle United,DF,Y,31,5,2,3,203,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,Daryl Janmaat,nl NED,Newcastle United,DF,N,27,2,2,0,172,86,0,0,0,0,2,1,0,1,0,0,0,0,0.52,1.05,0.52
+389,Rolando Aarons,eng ENG,Newcastle United,MF,N,20,4,1,3,79,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,Massadio Haidara,fr FRA,Newcastle United,DF,Y,23,1,0,1,78,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,Sammy Ameobi,ng NGA,Newcastle United,"MF,FW",N,24,4,0,4,61,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,Achraf Lazaar,ma MAR,Newcastle United,DF,N,24,4,0,4,40,10,0,0,0,0,2,0,0,0,0,0,0,0,0,4.5,0
+393,Adam Armstrong,eng ENG,Newcastle United,FW,N,19,2,0,2,29,15,0,1,0,0,1,0,0,0,0,3.1,0,3.1,0,3.1,0
+394,Cheick Tiote,ci CIV,Newcastle United,MF,N,30,1,0,1,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Jamie Sterry,eng ENG,Newcastle United,DF,Y,20,2,0,2,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,Kenedy,br BRA,Newcastle United,MF,S,20,1,0,1,16,16,0,0,0,0,1,0,0,0,0,0,0,0,0,5.63,0
+397,Joselu,es ESP,Newcastle United,FW,Y,26,20,9,11,883,44,5,0,0,0,19,7,0,14,0.51,0.51,0.51,0.51,1.43,1.94,0.71
+398,Florian Lejeune,fr FRA,Newcastle United,DF,Y,25,34,33,1,2971,87,1,1,0,0,18,7,1,11,0.03,0.06,0.03,0.06,0.33,0.55,0.24
+399,Mikel Merino,es ESP,Newcastle United,MF,Y,20,8,2,6,298,37,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.3
+400,Jacob Murphy,eng ENG,Newcastle United,FW,Y,21,38,32,6,2622,69,9,6,0,0,45,1,0,32,0.31,0.51,0.31,0.51,1.1,1.54,0.03
+401,Javier Manquillo,es ESP,Newcastle United,DF,Y,22,20,15,5,1430,72,1,0,0,0,14,2,0,1,0.06,0.06,0.06,0.06,0.06,0.88,0.13
+402,Islam Slimani,dz ALG,Newcastle United,FW,S,28,23,13,10,1281,56,7,4,1,1,27,1,0,13,0.49,0.77,0.42,0.7,0.91,1.9,0.07
+403,Oriol Romeu,es ESP,Southampton,MF,Y,24,35,35,0,3071,88,1,0,0,0,64,11,0,6,0.03,0.03,0.03,0.03,0.18,1.88,0.32
+404,Nathan Redmond,eng ENG,Southampton,MF,Y,22,37,32,5,2899,78,7,1,0,0,38,2,1,28,0.22,0.25,0.22,0.25,0.87,1.18,0.09
+405,Cedric Soares,pt POR,Southampton,DF,Y,24,30,30,0,2515,84,0,3,0,0,22,7,0,6,0,0.11,0,0.11,0.21,0.79,0.25
+406,Dusan Tadic,rs SRB,Southampton,MF,Y,27,33,30,3,2411,73,3,5,1,2,30,4,0,22,0.11,0.3,0.07,0.26,0.82,1.12,0.15
+407,Steven Davis,nir NIR,Southampton,MF,Y,31,32,29,3,2643,83,0,3,0,0,18,3,0,5,0,0.1,0,0.1,0.17,0.61,0.1
+408,Ryan Bertrand,eng ENG,Southampton,DF,Y,26,28,28,0,2507,90,2,3,0,0,24,3,0,6,0.07,0.18,0.07,0.18,0.22,0.86,0.11
+409,Maya Yoshida,jp JPN,Southampton,DF,Y,27,23,23,0,2070,90,1,0,0,0,18,2,0,6,0.04,0.04,0.04,0.04,0.26,0.78,0.09
+410,James Ward-Prowse,eng ENG,Southampton,MF,Y,21,30,22,8,1883,63,4,4,0,0,27,4,0,18,0.19,0.38,0.19,0.38,0.86,1.29,0.19
+411,Virgil van Dijk,nl NED,Southampton,DF,S,25,21,21,0,1853,88,1,0,0,0,18,4,1,5,0.05,0.05,0.05,0.05,0.24,0.87,0.24
+412,Jose Fonte,pt POR,Southampton,DF,N,32,17,17,0,1530,90,0,0,0,0,17,2,0,1,0,0,0,0,0.06,1,0.12
+413,Jack Stephens,eng ENG,Southampton,DF,Y,22,17,15,2,1471,87,0,0,0,0,15,1,0,0,0,0,0,0,0,0.92,0.06
+414,Pierre Hojbjerg,dk DEN,Southampton,MF,Y,20,22,14,8,1301,59,0,0,0,0,17,2,0,4,0,0,0,0,0.28,1.18,0.14
+415,Sofiane Boufal,ma MAR,Southampton,MF,Y,22,24,12,12,1104,46,1,1,0,0,25,5,0,7,0.08,0.16,0.08,0.16,0.57,2.04,0.41
+416,Jordy Clasie,nl NED,Southampton,MF,N,25,16,12,4,1021,64,1,1,0,0,15,3,0,3,0.09,0.18,0.09,0.18,0.26,1.32,0.26
+417,Charlie Austin,eng ENG,Southampton,FW,Y,27,15,11,4,934,62,6,1,2,2,14,1,0,17,0.58,0.67,0.39,0.48,1.64,1.35,0.1
+418,Shane Long,ie IRL,Southampton,FW,Y,29,32,10,22,1321,41,3,2,0,1,27,2,0,15,0.2,0.34,0.2,0.34,1.02,1.84,0.14
+419,Manolo Gabbiadini,it ITA,Southampton,FW,Y,24,11,10,1,724,66,4,0,0,1,9,1,0,11,0.5,0.5,0.5,0.5,1.37,1.12,0.12
+420,Jay Rodriguez,eng ENG,Southampton,FW,N,27,24,9,15,892,37,5,2,0,0,15,0,0,16,0.5,0.71,0.5,0.71,1.61,1.51,0
+421,Cuco Martina,cw CUW,Southampton,DF,N,26,9,6,3,592,66,0,0,0,0,4,0,0,0,0,0,0,0,0,0.61,0
+422,Sam McQueen,eng ENG,Southampton,MF,Y,21,13,5,8,616,47,0,0,0,0,3,0,0,0,0,0,0,0,0,0.44,0
+423,Matt Targett,eng ENG,Southampton,DF,F,20,5,5,0,373,75,0,0,0,0,2,0,0,0,0,0,0,0,0,0.48,0
+424,Josh Sims,eng ENG,Southampton,MF,Y,19,7,1,6,211,30,0,1,0,0,2,0,0,3,0,0.43,0,0.43,1.28,0.85,0
+425,Jeremy Pied,fr FRA,Southampton,MF,Y,27,4,1,3,129,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0.7,0
+426,Martin Caceres,uy URU,Southampton,DF,N,29,1,1,0,90,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,Harrison Reed,eng ENG,Southampton,MF,N,21,3,1,2,64,21,0,0,0,0,1,0,0,0,0,0,0,0,0,1.41,0
+428,Guido Carrillo,"ar ARG,it ITA",Southampton,FW,S,25,19,5,14,598,32,7,1,0,0,12,0,0,9,1.05,1.2,1.05,1.2,1.35,1.81,0
+429,Wesley Hoedt,nl NED,Southampton,DF,Y,22,23,21,2,1882,82,2,0,0,0,33,5,0,5,0.1,0.1,0.1,0.1,0.24,1.58,0.24
+430,Mario Lemina,ga GAB,Southampton,MF,Y,22,19,8,11,906,48,1,1,0,0,15,1,0,7,0.1,0.2,0.1,0.2,0.7,1.49,0.1
+431,Christian Eriksen,dk DEN,Tottenham Hotspur,MF,Y,24,36,36,0,3157,88,8,15,0,0,20,0,0,45,0.23,0.66,0.23,0.66,1.28,0.57,0
+432,Dele Alli,eng ENG,Tottenham Hotspur,MF,Y,20,37,35,2,3034,82,18,7,1,1,50,4,0,45,0.53,0.74,0.5,0.71,1.33,1.48,0.12
+433,Victor Wanyama,ke KEN,Tottenham Hotspur,MF,Y,25,36,35,1,3012,84,4,1,0,0,64,10,0,13,0.12,0.15,0.12,0.15,0.39,1.91,0.3
+434,Eric Dier,eng ENG,Tottenham Hotspur,MF,Y,22,36,34,2,3043,85,2,1,0,0,25,6,0,7,0.06,0.09,0.06,0.09,0.21,0.74,0.18
+435,Jan Vertonghen,be BEL,Tottenham Hotspur,DF,Y,29,33,33,0,2894,88,0,0,0,0,21,5,0,4,0,0,0,0,0.12,0.65,0.16
+436,Kyle Walker,eng ENG,Tottenham Hotspur,DF,N,26,33,31,2,2701,82,0,5,0,0,36,8,0,5,0,0.17,0,0.17,0.17,1.2,0.27
+437,Toby Alderweireld,be BEL,Tottenham Hotspur,DF,Y,27,30,30,0,2601,87,1,0,0,0,9,1,0,9,0.03,0.03,0.03,0.03,0.31,0.31,0.03
+438,Harry Kane,eng ENG,Tottenham Hotspur,FW,Y,23,30,29,1,2521,84,29,5,5,6,23,3,0,58,1.04,1.21,0.86,1.04,2.07,0.82,0.11
+439,Mousa Dembele,be BEL,Tottenham Hotspur,MF,Y,29,30,24,6,2056,69,1,1,0,0,43,5,0,3,0.04,0.09,0.04,0.09,0.13,1.88,0.22
+440,Son Heung-min,kr KOR,Tottenham Hotspur,MF,Y,24,34,23,11,2062,61,14,6,0,0,10,2,0,33,0.61,0.87,0.61,0.87,1.44,0.44,0.09
+441,Ben Davies,wal WAL,Tottenham Hotspur,DF,Y,23,23,18,5,1739,76,1,3,0,0,13,1,0,4,0.05,0.21,0.05,0.21,0.21,0.67,0.05
+442,Danny Rose,eng ENG,Tottenham Hotspur,DF,Y,26,18,18,0,1530,85,2,2,0,0,29,8,0,5,0.12,0.24,0.12,0.24,0.29,1.71,0.47
+443,Moussa Sissoko,fr FRA,Tottenham Hotspur,MF,Y,26,25,8,17,911,36,0,2,0,0,21,3,0,3,0,0.2,0,0.2,0.3,2.07,0.3
+444,Vincent Janssen,nl NED,Tottenham Hotspur,FW,N,22,27,7,20,845,31,2,2,1,1,31,0,0,14,0.21,0.43,0.11,0.32,1.49,3.3,0
+445,Erik Lamela,ar ARG,Tottenham Hotspur,MF,Y,24,9,6,3,594,66,1,3,0,1,13,1,0,6,0.15,0.61,0.15,0.61,0.91,1.97,0.15
+446,Kieran Trippier,eng ENG,Tottenham Hotspur,DF,Y,25,12,6,6,568,47,0,5,0,0,8,1,0,0,0,0.79,0,0.79,0,1.27,0.16
+447,Kevin Wimmer,at AUT,Tottenham Hotspur,DF,N,23,5,4,1,357,71,0,0,0,0,4,3,0,0,0,0,0,0,0,1.01,0.76
+448,Harry Winks,eng ENG,Tottenham Hotspur,MF,Y,20,21,3,18,493,24,1,1,0,0,10,1,0,2,0.18,0.37,0.18,0.37,0.37,1.83,0.18
+449,Georges-Kevin N'Koudou,fr FRA,Tottenham Hotspur,MF,F,21,8,0,8,54,7,0,0,0,0,1,0,0,1,0,0,0,0,1.67,1.67,0
+450,Josh Onomah,eng ENG,Tottenham Hotspur,"MF,FW",N,19,5,0,5,22,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Filip Lesniak,sk SVK,Tottenham Hotspur,MF,Y,20,1,0,1,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,Davinson Sanchez,co COL,Tottenham Hotspur,DF,Y,20,32,32,0,2760,86,6,2,0,0,32,2,0,12,0.2,0.26,0.2,0.26,0.39,1.04,0.07
+453,Serge Aurier,ci CIV,Tottenham Hotspur,DF,Y,23,22,21,1,1829,83,0,3,0,0,19,4,1,5,0,0.15,0,0.15,0.25,0.93,0.25
+454,Lucas Moura,br BRA,Tottenham Hotspur,MF,S,23,37,29,8,2421,65,12,6,1,1,32,0,0,30,0.45,0.67,0.41,0.63,1.12,1.19,0
+455,Fernando Llorente,es ESP,Tottenham Hotspur,FW,Y,31,33,28,5,2442,74,15,1,0,0,51,2,0,26,0.55,0.59,0.55,0.59,0.96,1.88,0.07
+456,Tom Carroll,eng ENG,Tottenham Hotspur,MF,N,24,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,Erik Pieters,nl NED,Stoke City,DF,Y,27,36,35,1,3151,88,0,1,0,0,58,5,0,0,0,0.03,0,0.03,0,1.66,0.14
+458,Ryan Shawcross,eng ENG,Stoke City,DF,Y,28,35,35,0,3150,90,1,1,0,0,34,6,0,6,0.03,0.06,0.03,0.06,0.17,0.97,0.17
+459,Bruno Martins Indi,nl NED,Stoke City,DF,Y,24,35,35,0,3146,90,1,0,0,0,25,4,0,7,0.03,0.03,0.03,0.03,0.2,0.72,0.11
+460,Joe Allen,wal WAL,Stoke City,MF,Y,26,36,34,2,2930,81,6,2,0,0,29,9,0,17,0.18,0.25,0.18,0.25,0.52,0.89,0.28
+461,Marko Arnautovic,at AUT,Stoke City,"FW,MF",N,27,32,32,0,2714,85,6,5,0,1,40,9,1,19,0.2,0.36,0.2,0.36,0.63,1.33,0.33
+462,Glenn Whelan,ie IRL,Stoke City,MF,N,32,30,26,4,2275,76,0,1,0,0,18,5,0,2,0,0.04,0,0.04,0.08,0.71,0.2
+463,Glen Johnson,eng ENG,Stoke City,DF,Y,31,23,21,2,1957,85,0,0,0,0,12,1,0,3,0,0,0,0,0.14,0.55,0.05
+464,Xherdan Shaqiri,ch SUI,Stoke City,MF,Y,24,21,21,0,1698,81,4,2,0,0,16,2,0,10,0.21,0.32,0.21,0.32,0.53,0.85,0.11
+465,Geoff Cameron,us USA,Stoke City,DF,Y,31,19,18,1,1629,86,0,2,0,0,17,1,0,5,0,0.11,0,0.11,0.28,0.94,0.06
+466,Charlie Adam,sco SCO,Stoke City,MF,Y,30,24,17,7,1517,63,1,3,1,1,41,7,0,11,0.06,0.24,0,0.18,0.65,2.43,0.42
+467,Mame Biram Diouf,sn SEN,Stoke City,FW,Y,28,27,15,12,1385,51,1,2,0,0,28,3,0,4,0.06,0.19,0.06,0.19,0.26,1.82,0.19
+468,Phil Bardsley,sco SCO,Stoke City,DF,N,31,15,14,1,1168,78,0,0,0,0,25,5,1,2,0,0,0,0,0.15,1.93,0.46
+469,Peter Crouch,eng ENG,Stoke City,FW,Y,35,27,13,14,1343,50,7,2,0,0,26,3,0,16,0.47,0.6,0.47,0.6,1.07,1.74,0.2
+470,Jonathan Walters,ie IRL,Stoke City,"MF,FW",N,32,23,13,10,1304,57,4,2,1,1,13,1,0,12,0.28,0.41,0.21,0.35,0.83,0.9,0.07
+471,Giannelli Imbula,fr FRA,Stoke City,MF,F,23,12,9,3,796,66,0,0,0,0,3,1,0,0,0,0,0,0,0,0.34,0.11
+472,Wilfried Bony,ci CIV,Stoke City,FW,N,27,10,9,1,684,68,2,0,0,0,11,1,0,5,0.26,0.26,0.26,0.26,0.66,1.45,0.13
+473,Ramadan Sobhi,eg EGY,Stoke City,MF,Y,19,17,8,9,854,50,0,1,0,0,10,2,0,1,0,0.11,0,0.11,0.11,1.05,0.21
+474,Saido Berahino,eng ENG,Stoke City,FW,Y,22,13,8,5,720,55,0,0,0,0,11,0,0,7,0,0,0,0,0.87,1.37,0
+475,Marc Muniesa,es ESP,Stoke City,"MF,DF",N,24,10,7,3,650,65,1,0,0,0,9,2,0,3,0.14,0.14,0.14,0.14,0.42,1.25,0.28
+476,Bojan Krkic,es ESP,Stoke City,MF,F,25,9,5,4,475,53,3,0,2,3,4,1,0,4,0.57,0.57,0.19,0.19,0.76,0.76,0.19
+477,Ibrahim Afellay,nl NED,Stoke City,MF,Y,30,12,3,9,384,32,0,0,0,0,3,0,0,1,0,0,0,0,0.23,0.7,0
+478,Philipp Wollscheid,de GER,Stoke City,DF,Y,27,2,2,0,180,90,0,0,0,0,1,1,0,0,0,0,0,0,0,0.5,0.5
+479,Julien Ngoy,be BEL,Stoke City,FW,Y,18,5,0,5,49,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+480,Darren Fletcher,sco SCO,Stoke City,MF,N,32,38,37,1,3231,85,2,3,0,0,22,0,0,7,0.06,0.14,0.06,0.14,0.19,0.61,0
+481,Kurt Zouma,fr FRA,Stoke City,DF,Y,21,9,3,6,250,28,0,0,0,0,2,0,0,0,0,0,0,0,0,0.72,0
+482,Darren Fletcher,sco SCO,Stoke City,MF,N,32,38,37,1,3231,85,2,3,0,0,22,0,0,7,0.06,0.14,0.06,0.14,,,
+483,Kevin Wimmer,at AUT,Stoke City,DF,Y,23,5,4,1,357,71,0,0,0,0,4,3,0,0,0,0,0,0,0,1.01,0.76
+484,Josh Tymon,eng ENG,Stoke City,DF,F,17,5,4,1,322,64,0,0,0,0,4,1,0,0,0,0,0,0,0,1.12,0.28
+485,Jese,es ESP,Stoke City,FW,Y,23,9,1,8,268,30,1,0,1,1,3,0,0,2,0.34,0.34,0,0,0.67,1.01,0
+486,Eric Maxim Choupo-Moting,cm CMR,Stoke City,FW,Y,27,23,19,4,1686,73,3,4,1,2,23,1,0,17,0.16,0.37,0.11,0.32,0.91,1.23,0.05
+487,Badou Ndiaye,sn SEN,Stoke City,MF,S,25,26,26,0,2320,89,6,2,2,3,52,7,0,31,0.23,0.31,0.16,0.23,1.2,2.02,0.27
+488,Moritz Bauer,ch SUI,Stoke City,DF,S,24,21,19,2,1625,77,0,3,0,0,18,4,0,1,0,0.17,0,0.17,0.06,1,0.22
+489,Gylfi Sigurgdsson,is ISL,Swansea City,MF,N,26,38,37,1,3327,88,9,13,3,3,19,2,0,50,0.24,0.6,0.16,0.51,1.35,0.51,0.05
+490,Kyle Naughton,eng ENG,Swansea City,DF,Y,27,31,31,0,2714,88,1,0,0,0,25,5,0,5,0.03,0.03,0.03,0.03,0.17,0.83,0.17
+491,Fernando Llorente,es ESP,Swansea City,FW,N,31,33,28,5,2442,74,15,1,0,0,51,2,0,26,0.55,0.59,0.55,0.59,0.96,1.88,0.07
+492,Alfie Mawson,eng ENG,Swansea City,DF,Y,22,27,27,0,2430,90,4,0,0,0,10,1,0,4,0.15,0.15,0.15,0.15,0.15,0.37,0.04
+493,Federico Fernandez,ar ARG,Swansea City,DF,Y,27,27,27,0,2430,90,0,2,0,0,26,7,0,2,0,0.07,0,0.07,0.07,0.96,0.26
+494,Leroy Fer,nl NED,Swansea City,MF,Y,26,34,27,7,2404,71,6,2,0,0,48,9,0,11,0.22,0.3,0.22,0.3,0.41,1.8,0.34
+495,Jack Cork,eng ENG,Swansea City,MF,N,27,30,25,5,2232,74,0,0,0,0,24,7,0,5,0,0,0,0,0.2,0.97,0.28
+496,Wayne Routledge,eng ENG,Swansea City,MF,Y,31,27,24,3,1922,71,3,1,0,0,28,1,0,9,0.14,0.19,0.14,0.19,0.42,1.31,0.05
+497,Tom Carroll,eng ENG,Swansea City,MF,Y,24,17,16,1,1387,82,1,2,0,0,13,1,0,3,0.06,0.19,0.06,0.19,0.19,0.84,0.06
+498,Leon Britton,eng ENG,Swansea City,MF,Y,33,16,16,0,1163,73,0,0,0,0,6,3,0,0,0,0,0,0,0,0.46,0.23
+499,Jordi Amat,es ESP,Swansea City,DF,Y,24,17,15,2,1409,83,0,0,0,0,26,5,0,3,0,0,0,0,0.19,1.66,0.32
+500,Martin Olsson,se SWE,Swansea City,DF,Y,28,15,14,1,1252,84,2,0,0,0,12,2,0,4,0.14,0.14,0.14,0.14,0.29,0.86,0.14
+501,Ki Sung-yueng,kr KOR,Swansea City,MF,Y,27,23,13,10,1291,56,0,1,0,0,18,3,0,1,0,0.07,0,0.07,0.07,1.25,0.21
+502,Modou Barrow,gm GAM,Swansea City,FW,N,23,18,12,6,1145,64,0,2,0,0,13,1,0,3,0,0.16,0,0.16,0.24,1.02,0.08
+503,Stephen Kingsley,sco SCO,Swansea City,DF,Y,22,13,12,1,1036,80,0,1,0,0,3,0,0,1,0,0.09,0,0.09,0.09,0.26,0
+504,Neil Taylor,wal WAL,Swansea City,DF,Y,27,11,11,0,920,84,0,0,0,0,13,1,0,0,0,0,0,0,0,1.27,0.1
+505,Jordan Ayew,gh GHA,Swansea City,FW,Y,24,14,9,5,866,62,1,2,0,0,18,1,0,6,0.1,0.31,0.1,0.31,0.62,1.87,0.1
+506,Jay Fulton,sco SCO,Swansea City,MF,Y,22,11,9,2,690,63,0,0,0,0,10,2,0,0,0,0,0,0,0,1.3,0.26
+507,Angel Rangel,es ESP,Swansea City,DF,Y,33,18,8,10,831,46,1,0,0,0,10,1,0,3,0.11,0.11,0.11,0.11,0.32,1.08,0.11
+508,Mike van der Hoorn,nl NED,Swansea City,DF,Y,23,8,7,1,662,83,1,0,0,0,13,1,0,2,0.14,0.14,0.14,0.14,0.27,1.77,0.14
+509,Borja Bastan,es ESP,Swansea City,FW,N,23,18,4,14,561,31,1,0,0,0,4,0,0,4,0.16,0.16,0.16,0.16,0.64,0.64,0
+510,Luciano Narsingh,nl NED,Swansea City,MF,Y,25,13,3,10,416,32,0,2,0,0,3,0,0,0,0,0.43,0,0.43,0,0.65,0
+511,Nathan Dyer,eng ENG,Swansea City,MF,Y,28,8,3,5,214,27,0,1,0,0,4,0,0,1,0,0.42,0,0.42,0.42,1.68,0
+512,Jefferson Montero,ec ECU,Swansea City,MF,F,26,13,2,11,489,38,0,1,0,0,1,0,0,1,0,0.18,0,0.18,0.18,0.18,0
+513,Oliver McBurnie,sco SCO,Swansea City,FW,F,20,5,0,5,82,16,0,0,0,0,1,0,0,1,0,0,0,0,1.1,1.1,0
+514,Andre Ayew,gh GHA,Swansea City,MF,S,26,25,16,9,1438,58,6,3,0,0,13,1,0,13,0.38,0.56,0.38,0.56,0.81,0.81,0.06
+515,Andy King,wal WAL,Swansea City,MF,S,27,23,15,8,1446,63,1,0,0,0,18,4,0,7,0.06,0.06,0.06,0.06,0.44,1.12,0.25
+516,Wilfried Bony,ci CIV,Swansea City,FW,Y,27,10,9,1,684,68,2,0,0,0,11,1,0,5,0.26,0.26,0.26,0.26,0.66,1.45,0.13
+517,Tammy Abraham,eng ENG,Swansea City,FW,Y,18,41,40,1,3414,83,23,3,2,2,45,3,0,40,0.61,0.69,0.55,0.63,1.05,1.19,0.08
+518,Roque Mesa,es ESP,Swansea City,MF,F,27,35,34,1,3030,87,1,2,0,0,57,14,0,8,0.03,0.09,0.03,0.09,0.24,1.69,0.42
+519,Renato Sanches,pt POR,Swansea City,MF,Y,18,17,6,11,621,37,0,0,0,0,14,3,0,3,0,0,0,0,0.43,2.03,0.43
+520,Ettienne Capoue,fr FRA,Watford,MF,Y,28,37,37,0,3203,87,7,1,0,0,52,5,0,19,0.2,0.22,0.2,0.22,0.53,1.46,0.14
+521,Jose Holebas,gr GRE,Watford,DF,Y,32,33,33,0,2905,88,2,4,0,0,43,14,0,7,0.06,0.19,0.06,0.19,0.22,1.33,0.43
+522,Sebastian Prodl,at AUT,Watford,DF,Y,29,33,32,1,2769,84,1,1,0,0,40,11,1,7,0.03,0.07,0.03,0.07,0.23,1.3,0.39
+523,Troy Deeney,eng ENG,Watford,FW,Y,28,37,31,6,2944,80,10,4,3,3,42,7,0,18,0.31,0.43,0.21,0.34,0.55,1.28,0.21
+524,Miguel Britos,uy URU,Watford,DF,Y,31,27,27,0,2282,85,1,2,0,0,36,8,2,5,0.04,0.12,0.04,0.12,0.2,1.42,0.39
+525,Valon Behrami,ch SUI,Watford,"MF,DF",N,31,27,26,1,2030,75,0,2,0,0,29,7,0,0,0,0.09,0,0.09,0,1.29,0.31
+526,Nordin Amrabat,ma MAR,Watford,"MF,FW",N,29,29,25,4,2091,72,0,3,0,0,47,4,0,6,0,0.13,0,0.13,0.26,2.02,0.17
+527,Younous Kaboul,fr FRA,Watford,DF,Y,30,22,22,0,1820,83,2,0,0,0,20,2,0,4,0.1,0.1,0.1,0.1,0.2,0.99,0.1
+528,Daryl Janmaat,nl NED,Watford,DF,Y,27,27,18,9,1617,60,2,1,0,0,16,2,0,8,0.11,0.17,0.11,0.17,0.45,0.89,0.11
+529,Tom Cleverley,eng ENG,Watford,MF,Y,26,17,16,1,1441,85,0,2,0,0,16,3,0,3,0,0.12,0,0.12,0.19,1,0.19
+530,M'Baye Niang,sn SEN,Watford,"MF,FW",N,21,16,15,1,1246,78,2,2,0,0,24,2,0,13,0.14,0.29,0.14,0.29,0.94,1.73,0.14
+531,Abdoulaye Doucoure,fr FRA,Watford,MF,Y,23,20,14,6,1361,68,1,0,0,0,12,4,0,9,0.07,0.07,0.07,0.07,0.6,0.79,0.26
+532,Odion Ighalo,ng NGA,Watford,FW,N,27,18,14,4,1291,72,1,0,0,0,18,1,0,10,0.07,0.07,0.07,0.07,0.7,1.25,0.07
+533,Craig Cathcart,nir NIR,Watford,DF,Y,27,15,13,2,1162,78,0,1,0,0,13,3,0,1,0,0.08,0,0.08,0.08,1.01,0.23
+534,Roberto Pereyra,ar ARG,Watford,MF,Y,25,13,12,1,1037,80,2,2,0,0,8,2,1,4,0.17,0.35,0.17,0.35,0.35,0.69,0.26
+535,Stefano Okaka,it ITA,Watford,FW,Y,26,19,10,9,958,50,4,1,0,0,29,5,0,12,0.38,0.47,0.38,0.47,1.13,2.72,0.47
+536,Adlriene Guedioura,dz ALG,Watford,MF,Y,30,12,9,3,721,60,0,0,0,0,21,2,0,3,0,0,0,0,0.37,2.62,0.25
+537,Christian Kabasele,be BEL,Watford,DF,Y,25,16,7,9,771,48,2,0,0,0,15,1,0,2,0.23,0.23,0.23,0.23,0.23,1.75,0.12
+538,Juan Zaniaga,co COL,Watford,DF,Y,30,21,6,15,825,39,1,0,0,0,5,1,0,1,0.11,0.11,0.11,0.11,0.11,0.55,0.11
+539,Adrian Mariappa,jm JAM,Watford,DF,Y,29,7,6,1,562,80,0,0,0,0,4,0,0,0,0,0,0,0,0,0.64,0
+540,Mauro Zarate,ar ARG,Watford,FW,N,29,3,3,0,203,68,0,0,0,0,1,0,0,3,0,0,0,0,1.33,0.44,0
+541,Isaac Success,ng NGA,Watford,FW,F,20,19,2,17,519,27,1,1,0,0,12,2,0,8,0.17,0.35,0.17,0.35,1.39,2.08,0.35
+542,Jerome Sinclair,eng ENG,Watford,FW,Y,19,5,1,4,116,23,0,0,0,0,4,0,0,0,0,0,0,0,0,3.1,0
+543,Brandon Mason,eng ENG,Watford,DF,Y,18,2,1,1,113,57,0,0,0,0,3,0,0,0,0,0,0,0,0,2.39,0
+544,Ben Watson,eng ENG,Watford,MF,N,31,4,0,4,54,14,0,0,0,0,2,0,1,0,0,0,0,0,0,3.33,1.67
+545,Andrew Eleftheriou,eng ENG,Watford,DF,Y,18,1,0,1,52,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,Dion Pereira,eng ENG,Watford,MF,Y,17,2,0,2,25,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,Kenedy,br BRA,Watford,"MF,FW",N,20,1,0,1,16,16,0,0,0,0,1,0,0,0,0,0,0,0,0,5.63,0
+548,Michael Folivi,eng ENG,Watford,FW,Y,18,1,0,1,10,10,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0
+549,Ikechi Anya,sco SCO,Watford,"MF,FW",Y,28,1,0,1,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,Matais Vydra,cz CZE,Watford,FW,N,24,1,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,Nathaniel Chalobah,eng ENG,Watford,"MF,DF",Y,21,10,1,9,167,17,0,0,0,0,2,2,0,1,0,0,0,0,0.54,1.08,1.08
+552,Richarlison,br BRA,Watford,"MF,FW",Y,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,Will Hughes,eng ENG,Watford,MF,Y,21,38,28,10,2658,70,2,3,0,0,65,10,0,6,0.07,0.17,0.07,0.17,0.2,2.2,0.34
+554,Gerard Deulofeu,es ESP,Watford,MF,S,22,17,16,1,1459,86,4,3,0,0,17,4,0,16,0.25,0.43,0.25,0.43,0.99,1.05,0.25
+555,Marvin Zeegelaar,nl NED,Watford,DF,Y,25,20,18,2,1512,76,0,2,0,0,51,6,0,0,0,0.12,0,0.12,0,3.04,0.36
+556,Didier Ibrahim Ndong,ga GAB,Watford,MF,Y,22,31,27,4,2520,81,1,0,0,0,39,5,0,5,0.04,0.04,0.04,0.04,0.18,1.39,0.18
+557,Andre Carrillo,pe PER,Watford,FW,Y,25,20,3,17,537,27,2,1,0,0,12,5,0,3,0.34,0.5,0.34,0.5,0.5,2.01,0.84
+558,Molla Wague,ml MLI,Watford,DF,Y,25,6,6,0,540,90,0,0,0,0,6,2,0,0,0,0,0,0,0,1,0.33
+559,Andre Gray,eng ENG,Watford,FW,Y,25,32,26,6,2259,71,9,3,2,2,17,2,0,19,0.36,0.48,0.28,0.4,0.76,0.68,0.08
+560,Craig Dawson,eng ENG,West Bromwich Albion,DF,Y,26,37,37,0,3276,89,4,0,0,0,55,10,0,8,0.11,0.11,0.11,0.11,0.22,1.51,0.27
+561,Darren Fletcher,sco SCO,West Bromwich Albion,MF,N,32,38,37,1,3231,85,2,3,0,0,22,0,0,7,0.06,0.14,0.06,0.14,0.19,0.61,0
+562,Gareth McAuley,nir NIR,West Bromwich Albion,DF,Y,36,36,36,0,3140,87,6,1,0,0,26,5,0,7,0.17,0.2,0.17,0.2,0.2,0.75,0.14
+563,Salomon Rondon,ve VEN,West Bromwich Albion,FW,Y,26,38,32,6,2891,76,8,2,0,0,41,2,0,26,0.25,0.31,0.25,0.31,0.81,1.28,0.06
+564,Jonny Evans,nir NIR,West Bromwich Albion,DF,Y,28,31,30,1,2637,85,2,2,0,0,30,8,0,5,0.07,0.14,0.07,0.14,0.17,1.02,0.27
+565,Allan Nyom,cm CMR,West Bromwich Albion,DF,Y,28,32,29,3,2638,82,0,1,0,0,50,8,0,1,0,0.03,0,0.03,0.03,1.71,0.27
+566,Chris Brunt,nir NIR,West Bromwich Albion,MF,Y,31,31,27,4,2477,80,3,4,0,0,17,5,0,11,0.11,0.25,0.11,0.25,0.4,0.62,0.18
+567,Claudio Yacob,ar ARG,West Bromwich Albion,MF,Y,29,33,27,6,2418,73,0,0,0,0,39,9,0,0,0,0,0,0,0,1.45,0.33
+568,Nacer Chadli,be BEL,West Bromwich Albion,MF,Y,26,31,27,4,2134,69,5,4,1,1,17,2,0,18,0.21,0.38,0.17,0.34,0.76,0.72,0.08
+569,Matt Phillips,sco SCO,West Bromwich Albion,MF,Y,25,27,26,1,2181,81,4,8,0,0,12,2,0,10,0.17,0.5,0.17,0.5,0.41,0.5,0.08
+570,James Morrison,sco SCO,West Bromwich Albion,MF,Y,30,31,17,14,1740,56,5,2,0,0,18,3,0,8,0.26,0.36,0.26,0.36,0.41,0.93,0.16
+571,Jake Livermore,eng ENG,West Bromwich Albion,MF,Y,26,16,15,1,1301,81,0,0,0,0,17,2,0,0,0,0,0,0,0,1.18,0.14
+572,James McClean,ie IRL,West Bromwich Albion,MF,Y,27,34,13,21,1477,43,1,2,0,0,30,9,0,13,0.06,0.18,0.06,0.18,0.79,1.83,0.55
+573,Jonas Olsson,se SWE,West Bromwich Albion,DF,Y,26,7,7,0,590,84,0,0,0,0,12,3,0,0,0,0,0,0,0,1.83,0.46
+574,Hal Robson-Kanu,wal WAL,West Bromwich Albion,FW,Y,27,29,5,24,701,24,3,2,0,0,28,3,0,6,0.39,0.64,0.39,0.64,0.77,3.59,0.39
+575,Sam Field,eng ENG,West Bromwich Albion,MF,Y,18,8,4,4,275,34,0,0,0,0,5,2,0,0,0,0,0,0,0,1.64,0.65
+576,Marc Wilson,ie IRL,West Bromwich Albion,DF,N,28,4,3,1,254,64,0,0,0,0,5,3,0,0,0,0,0,0,0,1.77,1.06
+577,Brendan Galloway,eng ENG,West Bromwich Albion,DF,N,20,3,3,0,247,82,0,0,0,0,6,0,0,0,0,0,0,0,0,2.19,0
+578,Saido Berahino,eng ENG,West Bromwich Albion,FW,N,22,4,3,1,243,61,0,0,0,0,9,1,0,2,0,0,0,0,0.74,3.33,0.37
+579,Craig Gardner,eng ENG,West Bromwich Albion,MF,N,29,9,2,7,218,24,0,1,0,0,8,1,0,2,0,0.41,0,0.41,0.83,3.3,0.41
+580,Jonathan Leko,eng ENG,West Bromwich Albion,FW,N,17,9,0,9,181,20,0,1,0,0,0,0,0,0,0,0.5,0,0.5,0,0,0
+581,Rickie Lambert,eng ENG,West Bromwich Albion,FW,N,34,1,0,1,13,13,0,0,0,0,1,0,0,0,0,0,0,0,0,6.92,0
+582,Kieran Gibbs,eng ENG,West Bromwich Albion,DF,Y,26,11,8,3,702,64,0,1,0,0,11,3,0,1,0,0.13,0,0.13,0.13,1.41,0.38
+583,Gareth Barry,eng ENG,West Bromwich Albion,MF,Y,35,33,23,10,2108,64,2,1,0,0,47,10,0,7,0.09,0.13,0.09,0.13,0.3,2.01,0.43
+584,Jay Rodriguez,eng ENG,West Bromwich Albion,FW,Y,27,24,9,15,892,37,5,2,0,0,15,0,0,16,0.5,0.71,0.5,0.71,1.61,1.51,0
+585,Ahmed Hegazi,eg EGY,West Bromwich Albion,DF,Y,23,10,9,1,776,78,0,0,0,0,,3,1,1,0,0,0,0,0.12,,0.46
+586,Oliver Burke,sco SCO,West Bromwich Albion,MF,Y,19,25,5,20,632,25,1,2,0,0,10,1,0,5,0.14,0.43,0.14,0.43,0.71,1.42,0.14
+587,Grzegorz Krychowiak,pl POL,West Bromwich Albion,MF,Y,26,11,7,4,659,60,0,0,0,0,14,2,0,1,0,0,0,0,0.14,1.91,0.27
+588,Daniel Sturridge,eng ENG,West Bromwich Albion,FW,S,26,20,7,13,775,39,3,1,0,0,5,1,0,20,0.35,0.46,0.35,0.46,2.32,0.58,0.12
+589,Cheikhou Kouyate,sn SEN,West Ham United,MF,Y,26,31,31,0,2722,88,1,0,0,0,45,3,0,4,0.03,0.03,0.03,0.03,0.13,1.49,0.1
+590,Manuel Lanzini,ar ARG,West Ham United,MF,Y,23,35,31,4,2706,77,8,2,2,2,20,9,0,21,0.27,0.33,0.2,0.27,0.7,0.67,0.3
+591,Winston Reid,nz NZL,West Ham United,DF,Y,28,30,30,0,2587,86,2,1,0,0,33,9,1,2,0.07,0.1,0.07,0.1,0.07,1.15,0.35
+592,Michail Antonio,eng ENG,West Ham United,MF,Y,26,29,29,0,2434,84,9,3,0,0,30,5,1,23,0.33,0.44,0.33,0.44,0.85,1.11,0.22
+593,Mark Noble,eng ENG,West Ham United,MF,Y,29,30,29,1,2389,80,3,0,1,2,27,10,0,7,0.11,0.11,0.08,0.08,0.26,1.02,0.38
+594,Aaron Cresswell,eng ENG,West Ham United,DF,Y,26,26,24,2,2116,81,0,2,0,0,11,3,1,2,0,0.09,0,0.09,0.09,0.47,0.17
+595,Pedro Obiang,es ESP,West Ham United,MF,Y,24,22,21,1,1763,80,1,1,0,0,27,7,0,2,0.05,0.1,0.05,0.1,0.1,1.38,0.36
+596,Angelo Ogbonna,it ITA,West Ham United,DF,Y,28,20,20,0,1755,88,0,0,0,0,13,2,0,1,0,0,0,0,0.05,0.67,0.1
+597,James Collins,wal WAL,West Ham United,DF,Y,32,22,19,3,1655,75,2,0,0,0,7,3,0,4,0.11,0.11,0.11,0.11,0.22,0.38,0.16
+598,Dimitri Payet,fr FRA,West Ham United,"MF,FW",N,29,18,17,1,1511,84,2,6,0,0,7,2,0,15,0.12,0.48,0.12,0.48,0.89,0.42,0.12
+599,Andre Ayew,gh GHA,West Ham United,MF,F,26,25,16,9,1438,58,6,3,0,0,13,1,0,13,0.38,0.56,0.38,0.56,0.81,0.81,0.06
+600,Jose Fonte,pt POR,West Ham United,DF,F,32,16,16,0,1404,88,0,0,0,0,11,2,0,2,0,0,0,0,0.13,0.71,0.13
+601,Andy Carroll,eng ENG,West Ham United,FW,Y,27,18,15,3,1311,73,7,1,0,0,25,3,0,14,0.48,0.55,0.48,0.55,0.96,1.72,0.21
+602,Sam Byram,eng ENG,West Ham United,"DF,MF",Y,22,18,13,5,1249,69,0,1,0,0,20,6,1,0,0,0.07,0,0.07,0,1.44,0.5
+603,Sofiane Feghouli,dz ALG,West Ham United,MF,N,26,21,11,10,1041,50,3,2,0,0,11,1,1,7,0.26,0.43,0.26,0.43,0.61,0.95,0.17
+604,Arthur Masuaku,fr FRA,West Ham United,DF,Y,22,13,11,2,972,75,0,1,0,0,16,1,0,1,0,0.09,0,0.09,0.09,1.48,0.09
+605,Harvard Nordtveit,no NOR,West Ham United,"MF,DF",N,26,16,11,5,957,60,0,1,0,0,11,2,0,1,0,0.09,0,0.09,0.09,1.03,0.19
+606,Edimilson Fernandes,"ch SUI,pt POR",West Ham United,MF,Y,20,28,8,20,1001,36,0,1,0,0,16,4,0,4,0,0.09,0,0.09,0.36,1.44,0.36
+607,Robert Snodgrass,sco SCO,West Ham United,"MF,FW",N,28,15,8,7,838,56,0,2,0,0,14,0,0,2,0,0.21,0,0.21,0.21,1.5,0
+608,Simone Zaza,it ITA,West Ham United,FW,N,25,8,5,3,459,57,0,0,0,0,11,2,0,2,0,0,0,0,0.39,2.16,0.39
+609,Jonathan Calleri,"ar ARG,it ITA",West Ham United,FW,N,22,16,4,12,540,34,1,0,0,0,10,0,0,3,0.17,0.17,0.17,0.17,0.5,1.67,0
+610,Gokhan Tore,tr TUR,West Ham United,"MF,FW",N,24,5,3,2,240,48,0,1,0,0,4,0,0,0,0,0.37,0,0.37,0,1.5,0
+611,Enner Valencia,ec ECU,West Ham United,"MF,FW",N,26,3,3,0,211,70,0,0,0,0,9,0,0,0,0,0,0,0,0,3.84,0
+612,Ashley Fletcher,eng ENG,West Ham United,FW,N,20,16,2,14,367,23,0,0,0,0,9,2,0,5,0,0,0,0,1.23,2.21,0.49
+613,Diafra Sakho,sn SEN,West Ham United,FW,F,26,4,2,2,181,45,1,0,0,0,3,0,0,1,0.5,0.5,0.5,0.5,0.5,1.49,0
+614,Álvaro Arbeloa,es ESP,West Ham United,DF,N,33,3,1,2,258,86,0,0,0,0,5,3,0,0,0,0,0,0,0,1.74,1.05
+615,Declan Rice,ie IRL,West Ham United,DF,Y,17,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,Pablo Zabaleta,ar ARG,West Ham United,DF,Y,31,19,11,8,1036,55,1,1,0,0,14,2,0,2,0.09,0.17,0.09,0.17,0.17,1.22,0.17
+617,Marko Arnautovic,at AUT,West Ham United,FW,Y,27,32,32,0,2714,85,6,5,0,1,40,9,1,19,0.2,0.36,0.2,0.36,0.63,1.33,0.33
+618,Joao Mario,pt POR,West Ham United,MF,S,23,30,22,8,2003,67,3,5,0,0,33,5,0,11,0.13,0.36,0.13,0.36,0.49,1.48,0.22
+619,Jordan Hugill,eng ENG,West Ham United,FW,S,24,44,35,9,3172,72,12,2,0,1,96,7,0,27,0.34,0.4,0.34,0.4,0.77,2.72,0.2
+620,Javier Hernandez,mx MEX,West Ham United,FW,Y,28,26,20,6,1813,70,11,2,0,2,28,1,0,26,0.55,0.65,0.55,0.65,1.29,1.39,0.05
+621,Patrice Evra,fr FRA,West Ham United,DF,S,35,11,11,0,868,79,1,0,0,0,17,3,0,2,0.1,0.1,0.1,0.1,0.21,1.76,0.31
